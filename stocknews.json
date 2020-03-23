@@ -1,156 +1,618 @@
-[
-    {
-        "news_url": "https://www.youtube.com/watch?v=MJCNfc53Mv0",
-        "image_url": "https://cdn.snapi.dev/images/v1/a/v/teslas-elon-musk-says-were-working-on-ventilators.jpg",
-        "title": "Tesla's Elon Musk Says 'We're Working on Ventilators'",
-        "text": "Elon Musk, Tesla's ceo, says in a tweet that \"we're working on ventilators,\" but they're probably not going to be needed.",
-        "source_name": "Bloomberg Technology",
-        "date": "Sat, 21 Mar 2020 12:55:34 -0400",
-        "topics": [
-            "CEO"
-        ],
-        "sentiment": "Positive",
-        "type": "Video",
-        "tickers": [
-            "TSLA"
-        ]
-    },
-    {
-        "news_url": "https://www.reuters.com/article/us-coronavirus-panasonic-tesla/panasonic-to-suspend-battery-production-at-tesla-joint-venture-in-nevada-due-to-coronavirus-idUSKBN2180D6",
-        "image_url": "https://cdn.snapi.dev/images/v1/p/k/m02d20200321t2i1506219461rlynxmpeg2k09nw640.jpg",
-        "title": "Panasonic to suspend battery production at Tesla joint venture in Nevada due to coronavirus",
-        "text": "Panasonic Corp  said on Saturday it will temporarily suspend production at its battery joint venture with U.S. electric carmaker Tesla Inc  in Nevada because of the coronavirus outbreak.",
-        "source_name": "Reuters",
-        "date": "Sat, 21 Mar 2020 05:14:16 -0400",
-        "topics": [],
-        "sentiment": "Negative",
-        "type": "Article",
-        "tickers": [
-            "PCRFY",
-            "TSLA"
-        ]
-    },
-    {
-        "news_url": "http://www.zacks.com/stock/news/826018/tesla-tsla-stock-moves-003-what-you-should-know",
-        "image_url": "https://cdn.snapi.dev/images/v1/a/r/105796174-1552653879432gettyimages-1130590361r530x298.jpg",
-        "title": "Tesla (TSLA) Stock Moves -0.03%: What You Should Know",
-        "text": "Tesla (TSLA) closed the most recent trading day at $427.53, moving -0.03% from the previous trading session.",
-        "source_name": "Zacks Investment Research",
-        "date": "Fri, 20 Mar 2020 17:45:21 -0400",
-        "topics": [],
-        "sentiment": "Neutral",
-        "type": "Article",
-        "tickers": [
-            "TSLA"
-        ]
-    },
-    {
-        "news_url": "https://www.youtube.com/watch?v=IrpJBT08ty0",
-        "image_url": "https://cdn.snapi.dev/images/v1/x/6/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5631972fgettyimages-1132660268gogfbjpgw700opresize.jpg",
-        "title": "Coronavirus Stock Market Crash: Dark Days Ahead For Apple, Tesla Stock?",
-        "text": "Major stocks, including Apple and Tesla, are facing unprecedented challenges as the coronavirus continues to spread and infect global markets. Daniel Ives, Managing Director of Equity Research at Wedbush Securities, joins IBD to discuss the unique demand issues popular tech companies are facing as the pandemic unfolds.",
-        "source_name": "Investors Business Daily",
-        "date": "Fri, 20 Mar 2020 17:17:24 -0400",
-        "topics": [],
-        "sentiment": "Neutral",
-        "type": "Video",
-        "tickers": [
-            "AAPL",
-            "TSLA"
-        ]
-    },
-    {
-        "news_url": "https://www.investors.com/news/technology/tesla-stock-apple-stock-coronavirus-demand-challenges/",
-        "image_url": "https://cdn.snapi.dev/images/v1/m/s/vitaldata1600-300x169.jpg",
-        "title": "Coronavirus Stock Market Crash: Apple, Tesla Stock Brace For Demand Destruction",
-        "text": "Major stocks, including Apple and Tesla stock, are facing unprecedented challenges as the coronavirus continues to spread and infect global markets.\r\nThe post Coronavirus Stock Market Crash: Apple, Tesla Stock Brace For Demand Destruction appeared first on Investor's Business Daily.",
-        "source_name": "Investors Business Daily",
-        "date": "Fri, 20 Mar 2020 17:06:27 -0400",
-        "topics": [],
-        "sentiment": "Negative",
-        "type": "Article",
-        "tickers": [
-            "AAPL",
-            "TSLA"
-        ]
-    },
-    {
-        "news_url": "https://www.youtube.com/watch?v=xqSl3C1rVXc",
-        "image_url": "https://cdn.snapi.dev/images/v1/m/q/us-auto-sales-decline-doubles-in-last-week-jd-power.jpg",
-        "title": "US auto sales decline doubles in last week: JD Power",
-        "text": "CNBC's Phil LeBeau reports that the U.S. auto sales declines have doubled in the last week.",
-        "source_name": "CNBC Television",
-        "date": "Fri, 20 Mar 2020 16:35:44 -0400",
-        "topics": [],
-        "sentiment": "Negative",
-        "type": "Video",
-        "tickers": [
-            "F",
-            "GM",
-            "TM",
-            "TSLA"
-        ]
-    },
-    {
-        "news_url": "https://www.youtube.com/watch?v=HZIbsFqrNpI",
-        "image_url": "https://cdn.snapi.dev/images/v1/q/h/teslas-elon-musk-says-he-can-make-ventilators.jpg",
-        "title": "Tesla's Elon Musk Says He Can Make Ventilators",
-        "text": "Tesla Chief Executive Officer Elon Musk joined General Motors Co. in offering to manufacture hospital ventilators amid the coronavirus outbreak. A Tesla assembly plant also had to idle production. Bloomberg's Ed Ludlow reports on \"Bloomberg Technology.\"",
-        "source_name": "Bloomberg Technology",
-        "date": "Fri, 20 Mar 2020 16:27:32 -0400",
-        "topics": [
-            "CEO"
-        ],
-        "sentiment": "Neutral",
-        "type": "Video",
-        "tickers": [
-            "TSLA"
-        ]
-    },
-    {
-        "news_url": "https://www.cnbc.com/2020/03/20/how-elon-musk-took-tesla-to-hell-and-back-with-the-model-3.html",
-        "image_url": "https://cdn.snapi.dev/images/v1/1/x/cjr7j5sl3m4-2.jpg",
-        "title": "How Elon Musk took Tesla to hell and back with the Model 3",
-        "text": "Growing Tesla from the Roadster to the Model 3 was a bumpy road, and Wall Street was along for the wild ride. CNBC explores how Tesla and Elon Musk started an electric car revolution.",
-        "source_name": "CNBC",
-        "date": "Fri, 20 Mar 2020 16:11:30 -0400",
-        "topics": [
-            "CEO"
-        ],
-        "sentiment": "Neutral",
-        "type": "Article",
-        "tickers": [
-            "TSLA"
-        ]
-    },
-    {
-        "news_url": "https://seekingalpha.com/article/4333263-tesla-sub-35000-model-3",
-        "image_url": "https://cdn.snapi.dev/images/v1/5/u/2019-tesla-model-s-long-range-44.jpg",
-        "title": "Tesla: Sub $35,000 Model 3 Here",
-        "text": "Tesla: Sub $35,000 Model 3 Here",
-        "source_name": "Seeking Alpha",
-        "date": "Fri, 20 Mar 2020 11:48:42 -0400",
-        "topics": [
-            "product"
-        ],
-        "sentiment": "Neutral",
-        "type": "Article",
-        "tickers": [
-            "TSLA"
-        ]
-    },
-    {
-        "news_url": "http://www.zacks.com/stock/news/825245/pii-vs-tsla-which-stock-is-the-better-value-option",
-        "image_url": "https://cdn.snapi.dev/images/v1/2/a/ts6-6.jpg",
-        "title": "PII vs. TSLA: Which Stock Is the Better Value Option?",
-        "text": "PII vs. TSLA: Which Stock Is the Better Value Option?",
-        "source_name": "Zacks Investment Research",
-        "date": "Fri, 20 Mar 2020 11:40:10 -0400",
-        "topics": [],
-        "sentiment": "Neutral",
-        "type": "Article",
-        "tickers": [
-            "TSLA"
-        ]
-    }
-]
+{
+    "data": [
+        {
+            "news_url": "https://www.benzinga.com/fintech/20/03/15625576/covid-19-coronavirus-forces-investors-to-look-for-yield-safety",
+            "image_url": "https://cdn.snapi.dev/images/v1/6/m/woman-walking-in-the-street-during-night-time-1134166.jpg",
+            "title": "COVID-19 Coronavirus Forces Investors To Look For Yield, Safety",
+            "text": "With volatility at historically high levels and the COVID-19 coronavirus testing the limits of the entire global financial system, investors have been sent on a hunt for yield and safety.",
+            "source_name": "Benzinga",
+            "date": "Sun, 22 Mar 2020 19:27:08 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnn.com/2020/03/22/investing/dow-futures-limit-down-sunday/index.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/y/n/200322174627-nyse-0320-super-169.jpg",
+            "title": "Dow futures drop 5%, hitting 'limit down' at the start of futures trading Sunday",
+            "text": "Dow futures fell 5%, hitting the \"limit down\" maximum allowable limit and halting futures from falling further within minutes after futures trading began Sunday.",
+            "source_name": "CNN Business",
+            "date": "Sun, 22 Mar 2020 19:16:28 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/22/nyse-set-to-temporarily-transition-to-all-electronic-trading.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/l/106455161-1584809007052gettyimages-1213764421.jpeg",
+            "title": "Securities and Exchange Commission published rule changes to allow all-electronic trading for NYSE",
+            "text": "The floor of the New York Stock Exchange will be closed on Monday, but trading will resume electronically.",
+            "source_name": "CNBC",
+            "date": "Sun, 22 Mar 2020 18:32:53 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.nytimes.com/2020/03/22/business/economy/fed-bailout-congress.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/4/e/merlin-170835906-1c175790-9846-42f6-ae29-3a3c9fd94198-articlelargejpgquality75autowebpdisableupscale.jpg",
+            "title": "Fed Could Bolster Groups of Businesses and Localities With Funds in G.O.P. Bill",
+            "text": "Republican senators would create $425 billion in funding to back Fed emergency lending. That sets up a financial crisis flashback.",
+            "source_name": "NYTimes",
+            "date": "Sun, 22 Mar 2020 18:31:19 -0400",
+            "topics": [
+                "paywall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/22/oil-drops-more-than-8percent-extending-declines-after-worst-week-since-1991.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/d/8/104217833-gettyimages-140417888.jpg",
+            "title": "Oil drops as much as 8%, extending declines after worst week since 1991",
+            "text": "Oil prices are on track for their worst month on record as the coronavirus outbreak weighs on demand, just as OPEC+ producers get ready to ramp up production.",
+            "source_name": "CNBC",
+            "date": "Sun, 22 Mar 2020 18:24:27 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/22/stock-market-futures-open-to-close-news.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/0/3/106419724-1583164885503rts34fgq.jpg",
+            "title": "Decline in stock futures worsens as investors await a stimulus agreement \u2014 Futures hit 'limit down'",
+            "text": "U.S. stock futures dropped sharply as Wall Street waits on Washington to agree to an economic stimulus and rescue plan.",
+            "source_name": "CNBC",
+            "date": "Sun, 22 Mar 2020 18:15:16 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/10e11dee-6fc4-4df7-941a-90ef3271c9c3",
+            "image_url": "https://cdn.snapi.dev/images/v1/l/z/etf31.jpg",
+            "title": "U.S. stock futures plunge, hit limit down",
+            "text": "U.S. stock futures plunged at the open late Sunday, hitting a 5% limit down almost immediately after the session began, following Wall Street's worst week since the financial crisis in 2008.",
+            "source_name": "Market Watch",
+            "date": "Sun, 22 Mar 2020 17:16:04 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.benzinga.com/top-stories/20/03/15621960/coronavirus-crash-sends-investors-to-short-funds-says-advisorshares-ceo",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/e/dices-over-newspaper-2656028-1920-37.jpg",
+            "title": "Coronavirus Crash Sends Investors To Short Funds, Says AdvisorShares CEO",
+            "text": "With volatility at historically high levels and the coronavirus pandemic testing the limits of the\u00a0global financial system, investors have been\u00a0on a hunt for yield and safety.",
+            "source_name": "Benzinga",
+            "date": "Sun, 22 Mar 2020 17:08:09 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/22/earnings-are-about-to-do-something-they-havent-done-since-2008.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/0/106454562-1584737355088gettyimages-1213400988.jpeg",
+            "title": "Earnings are about to do something they haven't done since 2008 because of coronavirus",
+            "text": "PNC Financial's Amanda Agati warns coronavirus fallout could dramatically hurt corporate America through the second quarter.",
+            "source_name": "CNBC",
+            "date": "Sun, 22 Mar 2020 17:01:01 -0400",
+            "topics": [
+                "earnings"
+            ],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/kenrapoza/2020/03/22/goodbye-dow-30000-hello-dow-10000/",
+            "image_url": "https://cdn.snapi.dev/images/v1/q/a/goodbye-dow-30000-hello-dow-10000.jpg",
+            "title": "Goodbye, Dow 30,000! Hello, Dow 10,000?",
+            "text": "The top 12 U.S. states with the most COVID-19 cases account for nearly 60% of GDP.",
+            "source_name": "Forbes",
+            "date": "Sun, 22 Mar 2020 17:00:00 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-markets-prediction/wall-street-braces-for-another-bleak-week-with-coronavirus-risks-amplified-idUSKBN21910O",
+            "image_url": "https://cdn.snapi.dev/images/v1/y/w/m02d20200322t2i1506773468rlynxmpeg2l0plw640.jpg",
+            "title": "Wall Street braces for another bleak week, with coronavirus risks amplified",
+            "text": "Wall Street analysts and investment managers expect another rough week for U.S. markets, as coronavirus cases and deaths increase in major cities and lawmakers continue to battle over an economic aid package in Washington.",
+            "source_name": "Reuters",
+            "date": "Sun, 22 Mar 2020 16:18:34 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/22/coronavirus-stimulus-congress-struggles-to-reach-a-deal.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/0/106446322-1584378615891gettyimages-1207357076.jpeg",
+            "title": "Congress struggles to reach a deal on its massive coronavirus stimulus bill",
+            "text": "Republicans last week rolled out a roughly $1 trillion proposal, which is a bid to slow the potentially catastrophic impact of the coronavirus on the economy.",
+            "source_name": "CNBC",
+            "date": "Sun, 22 Mar 2020 16:08:04 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4333497-use-market-volatility-to-save-your-portfolio",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/t/stocks111-22.jpg",
+            "title": "Use Market Volatility To Save Your Portfolio",
+            "text": ["Summary Minimize losses with put options.
+            
+            Current volatility levels cause extreme premiums.
+            
+            Write pull options on SPY, GLD and TLT.
+            
+            Many investors are liquidating their portfolios with huge losses. They sell all asset classes from equity to Treasuries and gold. I will explain here a better strategy to cut losses.
+            
+            Below is a chart of our Logical Invest Permanent Portfolio Strategy which invests in the 3 main assets: equity (SP&500), Treasuries and gold. The strategy uses a variable allocation of Treasuries and gold to hedge against equity losses. As you can see in the below chart, this worked well during previous market corrections below 20%.
+            
+            
+            
+            The next chart is a year-to-date view of the coronavirus market correction. Here you can also see that until the correction reached -15% the hedge worked well and the strategy still had a positive performance. This alone should tell every investor how important a hedge is. It gives you enough time to exit from your investments without big losses.
+            
+            However, the correction went on and markets began to panic. Investors began to sell everything including safe havens gold and Treasuries to cover losses and respond to margin calls.At this moment the strategy is down 12% and many investors are thinking of liquidating their positions and going to cash.
+            
+            
+            
+            In fact, there is a better way to deal with losses due to the record-high market volatility of all these asset classes.
+            
+            Here is an overview of the volatility of different asset classes:
+            
+            SP&500 the volatility reached 86
+            
+            
+            Gold volatility reached 54
+            
+            
+            10 year Treasury volatility reached 18
+            
+            
+            This record-high volatility also means that option premiums reached record levels. One way to protect your portfolio is to sell holdings in SPY, GLD and TLT and also sell far-out ATM (at the money) put options of these same assets. You can also keep SPY, GLD and TLT and sell ATM calls. 1 call per 100 shares. This would be a covered call and is the same as selling naked puts. Here is an example:
+            
+            You have $100,000 in SPY which is about 400 shares at a price of $240.
+            Now you sell these SPY shares and also sell 4 SPY put options with a strike of $240. Remember that one option is for 100 shares.
+            I would sell January 15, 2021 options which trade at a premium of about $40 which is nearly 17%!!!!
+            That’s all. Now you just wait until everything normalizes. The outcome scenarios are the following:
+            
+            If SPY goes up you will realize a maximum profit of 17%
+            If SPY stays the same but volatility goes back to normal values, you will realize a profit of about 10% because of the volatility drop. Upon expiry you will get the whole 17%.
+            If SPY is between $200 and $240 you will still make a profit. If the price on Jan 15, 2021 is at $220, which is 10% lower than now, you still make 9% profit.
+            If SPY is below $200 on Jan 15, 2021, then you get back your 400 SPY shares for a price of $200 which means that your losses are 17% smaller than they would have been by just keeping your portfolio.
+            You can do the same for GLD and TLT ETFs. GLD premium is about $16 which equals about 12% and TLT premium is about 11%.
+            
+            If you own the Permanent Portfolio strategy which is down about 12%, you may be able to cover all your current losses before January 15, 2021 if prices only go up a little from here. If prices go down further you can reinvest at about 11% to 17% lower prices than the current levels which should be a good place to start the next bull market.
+            
+            Logical-InvestFrank Grossmann
+            
+            Note: Stock options involve risk and are not suitable for all investors, please see our terms."],
+            "source_name": "Seeking Alpha",
+            "date": "Sun, 22 Mar 2020 15:30:13 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/simonmoore/2020/03/22/why-the-gold-slump-in-a-bear-market/",
+            "image_url": "https://cdn.snapi.dev/images/v1/x/h/why-the-gold-slump-in-a-bear-market.jpg",
+            "title": "Why The Gold Slump In A Bear Market?",
+            "text": "Gold is considered a useful way to protect your portfolio at times of market decline. However, this time around gold has fallen with the stock market.",
+            "source_name": "Forbes",
+            "date": "Sun, 22 Mar 2020 15:19:53 -0400",
+            "topics": [
+                "gold"
+            ],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "http://www.gurufocus.com/news/1081265/warren-buffett-says-he-is-not-scared-of-negative-interest-rates",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/l/105894249-15572301173711u8a0015.jpg",
+            "title": "Warren Buffett Says He Is Not Scared of Negative Interest Rates",
+            "text": "During times of crisis, investors look to their role models to gauge a measure of how panicked they should be.",
+            "source_name": "GuruFocus",
+            "date": "Sun, 22 Mar 2020 15:15:37 -0400",
+            "topics": [
+                "wbuffett"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/22/government-budget-deficit-is-about-to-explode-to-fight-the-coronavirus.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/3/106286144-1575907584784rts2u5lb.jpg",
+            "title": "The government budget deficit is about to explode to fight the coronavirus",
+            "text": "Remember when people were all worked up over trillion-dollar government budget deficits? Those might seem like the good old days.",
+            "source_name": "CNBC",
+            "date": "Sun, 22 Mar 2020 14:35:18 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/tomaspray/2020/03/22/lessons-from-the-sector-slaughter/",
+            "image_url": "https://cdn.snapi.dev/images/v1/l/e/lessons-from-the-sector-slaughter.jpg",
+            "title": "Lessons From The Sector Slaughter",
+            "text": "As the major averages have plunged all of the major stock sectors have been hit as the best performer is down almost 20% while the worst has dropped about 57%. Many of these ETFs have declined more YTD than they did in 2008.",
+            "source_name": "Forbes",
+            "date": "Sun, 22 Mar 2020 14:04:53 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.nytimes.com/2020/03/22/us/politics/coronavirus-economy-shutdown.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/e/merlin-170747688-65eb91ab-bd9f-4f1e-b0c3-549b48a029e8-articlelargejpgquality75autowebpdisableupscale.jpg",
+            "title": "The U.S. Shut Down Its Economy. Here\u2019s What Needs to Happen in Order to Restart.",
+            "text": "Whole sectors of the United States economy have gone dark to slow the spread of the coronavirus. Here\u2019s what comes next.",
+            "source_name": "NYTimes",
+            "date": "Sun, 22 Mar 2020 12:44:50 -0400",
+            "topics": [
+                "paywall"
+            ],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/55aa1159-b837-4f1f-bb0f-ada48d9c3a42",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/d/ed2d2dfff-1.jpg",
+            "title": "Pelosi says House Democrats will write own coronavirus stimulus",
+            "text": "Speaker of the House Nancy Pelosi said Sunday House Democrats plan to write their own coronavirus stimulus bill, which could throw sand in the congressional gears on a rescue package.",
+            "source_name": "Market Watch",
+            "date": "Sun, 22 Mar 2020 12:29:51 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/03/22/what-history-says-about-investing-in-bear-markets.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/r/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5645232fgettyimages-918364578jpgw700opresize.jpg",
+            "title": "What History Says About Investing in Bear Markets",
+            "text": "COVID-19 is new -- but wild stock market volatility is not.",
+            "source_name": "The Motley Fool",
+            "date": "Sun, 22 Mar 2020 12:27:00 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4333457-market-crash-time-to-think-differently",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/f/rf32fgggg-1.jpg",
+            "title": "Market Crash: It's Time To Think Differently",
+            "text": "We're living in extreme times.",
+            "source_name": "Seeking Alpha",
+            "date": "Sun, 22 Mar 2020 12:04:19 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/uhenergy/2020/03/22/lower-for-longer-covid-19s-impact-on-crude-oil-and-refined-products/",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/b/lower-for-longer-covid-19s-impact-on-crude-oil-and-refined-products.jpg",
+            "title": "Lower For Longer: COVID-19\u2019s Impact On Crude Oil And Refined Products",
+            "text": "The global COVID-19 pandemic already has slowed demand for oil, but the impact won\u2019t be as simple as cutting production. Expect the glut to grow in the coming months.",
+            "source_name": "Forbes",
+            "date": "Sun, 22 Mar 2020 12:00:06 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4333455-retirement-strategy-no-worst-is-probably-not-over",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/t/stocks23-30.jpg",
+            "title": "Retirement Strategy: No, The Worst Is Probably Not Over",
+            "text": "I don't care what anyone else says. None of us have seen anything like this during our lifetimes.",
+            "source_name": "Seeking Alpha",
+            "date": "Sun, 22 Mar 2020 11:51:51 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/22/why-long-term-investors-should-never-sell-stocks-in-a-panic.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/c/106432030-1583753611058gettyimages-1210191910.jpeg",
+            "title": "Why long-term investors should never sell stocks in a panic",
+            "text": "During times of extreme volatility, many strategists say avoid panic selling.",
+            "source_name": "CNBC",
+            "date": "Sun, 22 Mar 2020 11:17:03 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://investorplace.com/2020/03/stock-market-weekend-recap-the-worst-week-since-2008/",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/t/how-to-deal-with-wall-streets-silly-season.jpg",
+            "title": "Stock Market Weekend Recap: The Worst Week Since 2008",
+            "text": "The stock market just had its worst week since 2008, but some hope may emerge for bulls in the week ahead. \r\nThe post Stock Market Weekend Recap: The Worst Week Since 2008 appeared first on InvestorPlace.",
+            "source_name": "InvestorPlace",
+            "date": "Sun, 22 Mar 2020 11:02:40 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-usa-mnuchin/coronavirus-aid-bill-includes-3000-for-families-4-trillion-liquidity-for-fed-mnuchin-idUSKBN2190LL",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/w/sdfr3222-1.jpg",
+            "title": "Coronavirus aid bill includes $3,000 for families, $4 trillion liquidity for Fed: Mnuchin",
+            "text": "The coronavirus economic relief bill being finalized by the U.S. Congress will include a one-time $3,000 payment for families and allow the Federal Reserve to leverage up to $4 trillion of liquidity to support the nation's economy, U.S.",
+            "source_name": "Reuters",
+            "date": "Sun, 22 Mar 2020 10:39:58 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/22/mnuchin-financing-efforts-from-fed-and-treasury-could-be-4-trillion.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/0/106351450-1579788912148dsc03454r.jpg",
+            "title": "Financing programs for businesses hit by the coronavirus could amount to $4 trillion, Mnuchin says",
+            "text": "Part of a bipartisan stimulus effort will include joint efforts between the Treasury and Federal Reserve to get liquidity to businesses that need it, Mnuchin told Fox News Sunday.",
+            "source_name": "CNBC",
+            "date": "Sun, 22 Mar 2020 10:27:41 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/sarahhansen/2020/03/22/mnuchin-coronavirus-stimulus-deal-will-be-finalized-today-fed-will-lend-4-trillion-to-prop-up-economy/",
+            "image_url": "https://cdn.snapi.dev/images/v1/8/v/mnuchin-coronavirus-stimulus-deal-will-be-finalized-today-fed-will-lend-4-trillion-to-prop-up-economy.jpg",
+            "title": "Mnuchin: Coronavirus Stimulus Deal Will Be Finalized Today, Fed Will Lend $4 Trillion To Prop Up Economy",
+            "text": "The average family of four can expect to receive $3,000.",
+            "source_name": "Forbes",
+            "date": "Sun, 22 Mar 2020 10:21:40 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/22/breaking-down-this-sell-off-among-the-most-extreme-and-rare-wall-street-has-ever-seen.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/n/106454360-15847308649482020-03-19t212642z-1866910773-hp1eg3j1nkike-rtrmadp-3-usa-stocks.jpg",
+            "title": "Breaking down this sell-off, among the most extreme and rare Wall Street has ever seen",
+            "text": "We're at a point where the market needs to rally soon to interrupt the mechanistic selling spiral.",
+            "source_name": "CNBC",
+            "date": "Sun, 22 Mar 2020 10:12:58 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/shephyken/2020/03/22/2019-the-good-old-days--before-coronavirus/",
+            "image_url": "https://cdn.snapi.dev/images/v1/2/0/2019-the-good-old-days-before-coronavirus.jpg",
+            "title": "2019: The Good Old Days \u2026 Before Coronavirus",
+            "text": "Remember just a few months ago when people in the U.S. were arguing politics, complaining about taxes, lamenting over student loans, dreading rush hour commutes, and more? Those were the good old days!",
+            "source_name": "Forbes",
+            "date": "Sun, 22 Mar 2020 10:00:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4333433-weighing-week-ahead-quest-for-clarity",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/t/etf39-43.jpg",
+            "title": "Weighing The Week Ahead: A Quest For Clarity",
+            "text": "Without more current data, the economic calendar remains unimportant.",
+            "source_name": "Seeking Alpha",
+            "date": "Sun, 22 Mar 2020 09:21:07 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.etftrends.com/alternatives-channel/february-2020-29-turbulent-days/",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/t/etf21-28.jpg",
+            "title": "February 2020: 29 Turbulent Days",
+            "text": "By:\u00a0Salvatore J. Bruno;\u00a0IndexIQ The leap year is a fascinating quirk of the calendar, where every four years we see an extra day added to the shortest month of the year to keep the calendar well-aligned with the seasons.",
+            "source_name": "ETF Trends",
+            "date": "Sun, 22 Mar 2020 09:09:57 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.etftrends.com/core-equity-channel/keep-calm-bear-markets-are-temporary/",
+            "image_url": "https://cdn.snapi.dev/images/v1/y/q/new-york-stock-exchange-to-temporarily-close-trading-floor-in-response-to-coronavirus.jpg",
+            "title": "Keep Calm, Bear Markets Are Temporary",
+            "text": "By Frank Holmes, CEO and CIO, U.S. Global Investors \u201cIt may be.",
+            "source_name": "ETF Trends",
+            "date": "Sun, 22 Mar 2020 09:09:30 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/robisbitts2/2020/03/22/how-to-prepare-your-investment-portfolio-for-the-next-bull-market/",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/j/how-to-prepare-your-investment-portfolio-for-the-next-bull-market.jpg",
+            "title": "How To Prepare Your Investment Portfolio For The Next Bull Market",
+            "text": "Short list of blue chip stocks we would be willing to take a full position in \"at a price.\" As we believe that few, if any stocks are \"cheap\" in an environment like this, these stocks may well enter the portfolio very soon, but as very small allocations.",
+            "source_name": "Forbes",
+            "date": "Sun, 22 Mar 2020 09:00:00 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/03/22/should-you-really-buy-stocks-now-or-wait-a-while-l.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/d/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5643272fslips-of-paper-with-now-later-etcjpgw700opresize.jpg",
+            "title": "Should You Really Buy Stocks Now or Wait a While Longer?",
+            "text": "Here's the definitive answer you've been looking for.",
+            "source_name": "The Motley Fool",
+            "date": "Sun, 22 Mar 2020 09:00:00 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnn.com/2020/03/22/investing/stocks-week-ahead/index.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/y/200320155904-business-closure-philadelphia-0319-super-169.jpg",
+            "title": "A fresh wave of coronavirus job losses is about to come crashing down",
+            "text": "A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here.",
+            "source_name": "CNN Business",
+            "date": "Sun, 22 Mar 2020 08:00:04 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://247wallst.com/investing/2020/03/22/u-s-economy-could-move-back-to-2016-level/",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/0/m02d20200318t2i1505015707rlynxmpeg2h26xw640.jpg",
+            "title": "U.S. Economy Could Move Back To 2016 Level",
+            "text": "America\u2019s GDP was $21.4 billion last year. If it resets down between 12% and 13% this year, the figure will go back to the $18.7 level of 2016. Of course, GDP will be produced in different ways than it was four years ago.",
+            "source_name": "24/7 Wall Street",
+            "date": "Sun, 22 Mar 2020 07:47:19 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-fed-bullard/feds-bullard-coronavirus-shutdown-not-a-recession-but-an-investment-in-survival-idUSKBN2190FT",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/p/m02d20200322t2i1506618092rlynxmpeg2l0b4w640.jpg",
+            "title": "Fed's Bullard: Coronavirus shutdown not a recession but an investment in survival",
+            "text": "In normal times massive unemployment and a collapse in economic output would be tragic.",
+            "source_name": "Reuters",
+            "date": "Sun, 22 Mar 2020 06:46:05 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4333434-time-to-buy-is-when-is-blood-in-streets",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/h/chart-1905225-1920-42.jpg",
+            "title": "The Time To Buy Is When There Is Blood In The Streets",
+            "text": "The markets, both bond and equities, cannot get out of their way fast enough.",
+            "source_name": "Seeking Alpha",
+            "date": "Sun, 22 Mar 2020 05:28:12 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://nypost.com/2020/03/21/coronavirus-crisis-feds-should-use-banks-to-help-small-biz-homeowners/",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/r/feds-banks-small-biz-coronavirusjpgquality90stripall.jpg",
+            "title": "Coronavirus crisis: Feds should use banks to help small biz, homeowners",
+            "text": "Further to my ideas to help stabilize the economy in last week\u2019s column \u2014 some of which came to be implemented, and are now in the proposed bill \u2014 I have a few more suggestions. I propose that the Treasury and the Federal Reserve use banks \u2014 at little-to-no profit \u2014 as conduits to expedite.",
+            "source_name": "New York Post",
+            "date": "Sat, 21 Mar 2020 23:24:14 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/greatspeculations/2020/03/21/the-recession-arrived-suddenly--with-a-vengeance-notes-on-the-ongoing-financial-market-chaos/",
+            "image_url": "https://cdn.snapi.dev/images/v1/y/q/the-recession-arrived-suddenly-with-a-vengeance-notes-on-the-ongoing-financial-market-chaos.jpg",
+            "title": "The Recession Arrived Suddenly & With A Vengeance: Notes On The Ongoing Financial Market Chaos",
+            "text": "It shouldn\u2019t be a surprise to anyone that the Recession started this month; the depth and duration will depend on infection control. Even when some semblance of \u201cnormalcy\u201d returns, it is unlikely that they will narrow back to where they were in February.",
+            "source_name": "Forbes",
+            "date": "Sat, 21 Mar 2020 22:06:29 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/sergeiklebnikov/2020/03/21/just-how-bad-is-it-heres-the-economic-damage-the-coronavirus-will-cause-according-to-major-banks/",
+            "image_url": "https://cdn.snapi.dev/images/v1/y/b/just-how-bad-is-it-heres-the-economic-damage-the-coronavirus-will-cause-according-to-major-banks.jpg",
+            "title": "Just How Bad Is It? Here\u2019s The Economic Damage The Coronavirus Will Cause, According To Major Banks",
+            "text": "Many are now forecasting a recession in 2020.",
+            "source_name": "Forbes",
+            "date": "Sat, 21 Mar 2020 16:26:41 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.seeitmarket.com/whos-done-the-stock-market-wrong/",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/z/stocks-remain-volatile-as-markets-rebound-after-ecb-stimulus-and-more-fed-intervention.jpg",
+            "title": "Who\u2019s Done the Stock Market Wrong?",
+            "text": "\u201cCome up and see me sometime,\u201d are six words nobody is saying these days. The film\u00a0She Done Him Wrong, was made in 1933, although it takes place in 1890 NYC.",
+            "source_name": "See It Market",
+            "date": "Sat, 21 Mar 2020 16:04:45 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://techcrunch.com/2020/03/21/heres-a-wrap-of-the-main-tech-related-coronavirus-news-in-the-last-24-hours/",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/e/gettyimages-1209656815jpgw711.jpg",
+            "title": "Here\u2019s a wrap of the main tech-related Coronavirus news in the last 24 hours",
+            "text": "Much of the world is waking up to a strange new reality. As the Coronavirus COVID-19 swept across the planet, today may go down in history as the day when huge numbers of countries were largely united in a global shut-down to address the pandemic.",
+            "source_name": "TechCrunch",
+            "date": "Sat, 21 Mar 2020 13:30:42 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/johnnavin/2020/03/21/the-price-of-oil-and-the-price-of-oil-stocks-new-lows/",
+            "image_url": "https://cdn.snapi.dev/images/v1/b/d/the-price-of-oil-and-the-price-of-oil-stocks-new-lows.jpg",
+            "title": "The Price Of Oil And The Price Of Oil Stocks: New Lows",
+            "text": "With no one driving to work and major industries shut down, who needs the stuff?",
+            "source_name": "Forbes",
+            "date": "Sat, 21 Mar 2020 12:23:09 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/sergeiklebnikov/2020/03/21/kudlow-coronavirus-relief-package-could-total-more-than-2-trillion/",
+            "image_url": "https://cdn.snapi.dev/images/v1/j/c/kudlow-coronavirus-relief-package-could-total-more-than-2-trillion.jpg",
+            "title": "Kudlow: Coronavirus Relief Package Could Total More Than $2 Trillion",
+            "text": "\"The package is coming in at about 10% of GDP,\" Kudlow said.",
+            "source_name": "Forbes",
+            "date": "Sat, 21 Mar 2020 12:03:51 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/21/kudlow-says-coronavirus-relief-package-worth-more-than-2-trillion.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/0/106415971-1582904958527gettyimages-1194136391r.jpg",
+            "title": "Kudlow says coronavirus relief package worth more than $2 trillion",
+            "text": "The stimulus package under negotiation in the Senate to combat the economic damage from the coronavirus pandemic will total more than $2 trillion, White House Economic Advisor Larry Kudlow said on Saturday.",
+            "source_name": "CNBC",
+            "date": "Sat, 21 Mar 2020 11:42:45 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/petercohan/2020/03/21/covid-19s-worst-case-106-jobless-rate-15-trillion-gdp-drop/",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/o/covid-19s-worst-case-106-jobless-rate-15-trillion-gdp-drop.jpg",
+            "title": "COVID-19\u2019s Worst Case? 10.6% Jobless Rate, $1.5 Trillion GDP Drop",
+            "text": "Economists are comparing the COVID-19 Collapse to the Great Recession. But some are surprisingly optimistic about when the recovery will begin.",
+            "source_name": "Forbes",
+            "date": "Sat, 21 Mar 2020 10:41:52 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/21/op-ed-coronavirus-stimulus-bill-must-expand-social-security-payments.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/0/104752336-gettyimages-857520050-elizabeth-warren.jpg",
+            "title": "Op-Ed: Coronavirus stimulus bill must include expanded Social Security payments",
+            "text": "\"We have a chance to stimulate our economy by taking care of Americans who need it the most. We need to match the scope of this crisis with bold solutions that invest in our country's future,\" write U.S.",
+            "source_name": "CNBC",
+            "date": "Sat, 21 Mar 2020 10:38:59 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/21/op-ed-investor-who-made-it-through-87-crash-gives-optimistic-case-for-the-stock-market-right-now.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/8/106416192-1582909683827gettyimages-1203954177.jpeg",
+            "title": "Op-Ed: Investor who made it through '87 crash gives optimistic case for the stock market right now",
+            "text": "Finding the market's bottom involves creating a framework to assess the implicit assumptions in the market, the business sustainability, cash flow and balance sheets of the companies in which we invest.",
+            "source_name": "CNBC",
+            "date": "Sat, 21 Mar 2020 10:07:00 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        }
+    ]
+}
