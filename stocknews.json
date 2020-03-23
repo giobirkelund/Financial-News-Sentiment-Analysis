@@ -613,6 +613,773 @@
             "topics": [],
             "sentiment": "Neutral",
             "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/63638f56-23b4-4e43-be31-b042cb77accc",
+            "image_url": "https://cdn.snapi.dev/images/v1/i/s/92.jpg",
+            "title": "Netflix's Ted Sarandos says coronavirus-related shutdown won't disrupt content, for now at least",
+            "text": "Netflix Inc. NFLX, +0.24% Chief Content Officer Ted Sarandos said Sunday that while the coronavirus outbreak has been a \"massive disruption\" to production, he doesn't expect any shortage of content in the coming months.",
+            "source_name": "Market Watch",
+            "date": "Sun, 22 Mar 2020 19:10:01 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "NFLX"
+            ]
+        },
+        {
+            "news_url": "https://techcrunch.com/2020/03/22/ibm-amazon-google-and-microsoft-partner-with-white-house-to-provide-compute-resources-for-covid-19-research/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/d/gettyimages-586900699jpgw600.jpg",
+            "title": "IBM, Amazon, Google and Microsoft partner with White House to provide compute resources for COVID-19 research",
+            "text": "During today\u2019s White House coronavirus task force press conference, President Trump announced the launch of a new public/private consortium to \u201cunleash the power of American supercomputing resources.\u201d The members of this consortium are the White House, the Department of Energy and IBM.",
+            "source_name": "TechCrunch",
+            "date": "Sun, 22 Mar 2020 19:01:20 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "GOOG",
+                "GOOGL",
+                "IBM",
+                "MSFT"
+            ]
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-facebook-masks/facebook-donates-emergency-reserve-of-720000-masks-due-to-coronavirus-outbreak-idUSKBN21911E",
+            "image_url": "https://cdn.snapi.dev/images/v1/2/d/fabb43.jpg",
+            "title": "Facebook donates emergency reserve of 720,000 masks due to coronavirus outbreak",
+            "text": "Facebook Inc  Chief Executive Mark Zuckerberg said on Sunday that the social media company has donated its emergency reserve of 720,000 masks to provide health workers with more protective gear.",
+            "source_name": "Reuters",
+            "date": "Sun, 22 Mar 2020 16:41:52 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "FB"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4333494-facebook-tool-provider",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/v/106293222-1576170081424gettyimages-1185053406.jpeg",
+            "title": "Facebook: The Tool Provider",
+            "text": "Facebook: The Tool Provider",
+            "source_name": "Seeking Alpha",
+            "date": "Sun, 22 Mar 2020 15:55:21 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "FB"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4333492-recent-purchase-facebook",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/a/lyft-logo-phone-eye-4682.jpg",
+            "title": "Recent Purchase: Facebook",
+            "text": "Recent Purchase: Facebook",
+            "source_name": "Seeking Alpha",
+            "date": "Sun, 22 Mar 2020 15:51:57 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "FB"
+            ]
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-facebook/facebook-to-cut-video-streaming-quality-in-virus-hit-europe-idUSKBN2190VH",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/0/m02d20200322t2i1506730964rlynxmpeg2l0myw640.jpg",
+            "title": "Facebook to cut video streaming quality in virus-hit Europe",
+            "text": "Facebook will downgrade video streaming quality on its platform and on Instagram in Europe, the latest U.S. tech giant to respond to an EU call to stave off internet gridlock as thousands work from home due to the coronavirus outbreak.",
+            "source_name": "Reuters",
+            "date": "Sun, 22 Mar 2020 15:46:58 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "FB"
+            ]
+        },
+        {
+            "news_url": "https://www.cnet.com/news/amazon-launches-prime-video-cinema-hub-to-corral-new-theater-releases/",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/u/amazon9.jpg",
+            "title": "Amazon launches Prime Video Cinema hub to corral new theater releases",
+            "text": "Amazon's Prime Video Cinema offers current theater releases available to stream at home.",
+            "source_name": "CNET",
+            "date": "Sun, 22 Mar 2020 14:40:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/quantalyticsailab/2020/03/22/netflix-nflx-and-costco-cost-top-trending-stocks-and-outperforming-us-stock-market/",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/d/netflix-nflx-and-costco-cost-top-trending-stocks-and-outperforming-us-stock-market.jpg",
+            "title": "Netflix (NFLX) And Costco (COST) Top Trending Stocks And Outperforming US Stock Market",
+            "text": "Netflix (NFLX) and Costco Wholesale (COST) are among the top trending stocks this week AND are outperforming all major benchmarks.  We get into why and what else is trending ahead of this week's trading.",
+            "source_name": "Forbes",
+            "date": "Sun, 22 Mar 2020 13:41:07 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "COST",
+                "NFLX"
+            ]
+        },
+        {
+            "news_url": "https://www.investopedia.com/netflix-stock-holds-up-as-americans-stream-videos-at-home-4800601",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/d/105232754-netflix530x298.jpg",
+            "title": "Netflix Stock Holds Up as Americans Stream Videos at Home",
+            "text": "Despite the negative impacts of COVID-19, consumers stuck at home will watch more TV, which helps online streaming services.",
+            "source_name": "Investopedia",
+            "date": "Sun, 22 Mar 2020 13:21:42 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "NFLX"
+            ]
+        },
+        {
+            "news_url": "https://www.investopedia.com/facebook-stock-crashes-into-bear-market-territory-4800598",
+            "image_url": "https://cdn.snapi.dev/images/v1/i/z/103962888-gettyimages-502404740.jpg",
+            "title": "Facebook Stock Crashes Into Bear Market Territory",
+            "text": "The social media giant beat earnings estimates in the past two quarters, but this may not be as important given the COVID-19 crisis.",
+            "source_name": "Investopedia",
+            "date": "Sun, 22 Mar 2020 13:00:08 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "FB"
+            ]
+        },
+        {
+            "news_url": "https://www.benzinga.com/news/20/03/15625343/bezos-says-amazon-is-focused-on-helping-the-fight-against-coronavirus",
+            "image_url": "https://cdn.snapi.dev/images/v1/i/f/ama9.jpg",
+            "title": "Bezos Says Amazon Is Focused On Helping The Fight Against Coronavirus",
+            "text": "\"This isn\u2019t business as usual,\" Amazon.com, Inc. (NASDAQ: AMZN) CEO Jeff Bezos wrote in a letter, \"and it\u2019s a time of great stress and uncertainty.",
+            "source_name": "Benzinga",
+            "date": "Sun, 22 Mar 2020 12:59:08 -0400",
+            "topics": [
+                "CEO"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://techcrunch.com/2020/03/22/amazon-apple-and-microsoft-ceos-detail-their-companies-efforts-to-combat-coronavirus-pandemic/",
+            "image_url": "https://cdn.snapi.dev/images/v1/v/i/bezos-cook-nadellajpgw639.jpg",
+            "title": "Amazon, Apple and Microsoft CEOs detail their companies\u2019 efforts to combat coronavirus pandemic",
+            "text": "The tech industry is mobilizing its considerable resources to attempt to support efforts against the growing global coronavirus pandemic. Over the weekend, the CEOs of Amazon, Apple and Microsoft all shared updates regarding some aspects of their company\u2019s ongoing contributions, which range from donations of medical supplies and personal protective equipment (PPE) for frontline healthcare [\u2026]",
+            "source_name": "TechCrunch",
+            "date": "Sun, 22 Mar 2020 11:41:18 -0400",
+            "topics": [
+                "CEO"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMZN",
+                "MSFT"
+            ]
+        },
+        {
+            "news_url": "https://247wallst.com/investing/2020/03/22/15-stocks-still-rising-against-the-roaring-bear-market-and-the-coronavirus/",
+            "image_url": "https://cdn.snapi.dev/images/v1/q/w/bul23.jpg",
+            "title": "15 Stocks Still Rising Against the Roaring Bear Market and the Coronavirus",
+            "text": "It goes without saying that 2020 has been a very challenging year. The 11-year old stock raging bull stock market over the course of a month has died and turned into a roaring bear market with the major equity indexes down over 30% so far from the top.",
+            "source_name": "24/7 Wall Street",
+            "date": "Sun, 22 Mar 2020 11:04:35 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "BNTX",
+                "CHWY",
+                "CLX",
+                "CTXS",
+                "GILD",
+                "HRL",
+                "KR",
+                "MRNA",
+                "NFLX",
+                "OKTA",
+                "RNG",
+                "SJM",
+                "TDOC",
+                "ZM"
+            ]
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-netflix/netflix-to-slash-traffic-across-europe-to-relieve-virus-strain-on-internet-providers-idUSKBN21906P",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/e/ne7-2.jpg",
+            "title": "Netflix to slash traffic across Europe to relieve virus strain on internet providers",
+            "text": "Netflix Inc (NFLX.O) said it will cut traffic by 25% on networks across Europe in a relief measure for internet service providers (ISPs) experiencing a surge in usage due to government \u201cshelter in place\u201d orders aimed at slowing the coronavirus outbreak.",
+            "source_name": "Reuters",
+            "date": "Sun, 22 Mar 2020 09:56:03 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "NFLX"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/03/22/coronavirus-stock-market-crash-3-stocks-you-need-t.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/o/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5522292ffolded-money-cash-invest-retire-social-security-treasury-gettyjpgw700opresize.jpg",
+            "title": "Coronavirus Stock Market Crash: 3 Stocks You Need to Own",
+            "text": "Significant pullbacks in the market have always been an opportune time to put your money to work.",
+            "source_name": "The Motley Fool",
+            "date": "Sun, 22 Mar 2020 09:06:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "ALXN",
+                "AMZN",
+                "BAC"
+            ]
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/paularmstrongtech/2020/03/22/amazon-primed-what-coronavirus-really-means-for-amazon-prime-video-throttled-alexa-listening-to-locked-down-lawyers/",
+            "image_url": "https://cdn.snapi.dev/images/v1/7/w/amazon-primed-what-coronavirus-really-means-for-amazon-prime-video-throttled-alexa-listening-to-locked-down-lawyers.jpg",
+            "title": "Amazon Primed: What Coronavirus Really Means For Amazon, Prime Video Throttled, Alexa Listening To Locked Down Lawyers",
+            "text": "Amazon may be a lot of things but useless isn\u2019t one of them. What's really happening for Amazon right now isn't good for business.",
+            "source_name": "Forbes",
+            "date": "Sun, 22 Mar 2020 08:10:00 -0400",
+            "topics": [
+                "product"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4333439-amazons-next-billion-dollar-business",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/2/eu828.jpg",
+            "title": "Amazon's Next Billion-Dollar Business",
+            "text": "Amazon's Next Billion-Dollar Business",
+            "source_name": "Seeking Alpha",
+            "date": "Sun, 22 Mar 2020 08:07:40 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.cnet.com/news/warehouse-workers-demand-amazon-protect-them-during-coronavirus-pandemic/",
+            "image_url": "https://cdn.snapi.dev/images/v1/5/t/amaz23.jpg",
+            "title": "Warehouse workers demand Amazon protect them during coronavirus pandemic",
+            "text": "Calls for more paid time off grow following first confirmed COVID-19 in a US warehouse last week.",
+            "source_name": "CNET",
+            "date": "Sun, 22 Mar 2020 08:00:05 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.nytimes.com/2020/03/22/business/coronavirus-hiring-jobs.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/m/amazon-go-87jpgquality90stripall-2.jpg",
+            "title": "Help Wanted: Grocery Stores, Pizza Chains and Amazon Are Hiring",
+            "text": "Surging demand for critical products has created an immediate need for more workers, forcing some companies to alter normal hiring practices.",
+            "source_name": "NYTimes",
+            "date": "Sun, 22 Mar 2020 05:00:09 -0400",
+            "topics": [
+                "paywall"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "KR",
+                "WMT"
+            ]
+        },
+        {
+            "news_url": "https://deadline.com/2020/03/coronavirus-jeff-bezos-amazon-pandemic-workforce-warehouses-infection-masks-1202889587/",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/p/ar22.jpg",
+            "title": "Jeff Bezos Praises Still Working Amazon Staff For Coronavirus \u201cVital Service\u201d; Admits \u201cFew\u201d Mask Orders Fulfilled",
+            "text": "\u201cThis isn\u2019t business as usual, and it\u2019s a time of great stress and uncertainty,\u201d Amazon founder Jeff Bezos said in distinct understatement today as the coronavirus saw more and more of America shutdown and confirmed domestic cases of the global pandemic neared 27,000. \u201cIt\u2019s also a moment in time when the work we\u2019re doing is",
+            "source_name": "Deadline",
+            "date": "Sun, 22 Mar 2020 00:52:50 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-amazon-com-exclusi/amazon-raises-overtime-pay-for-warehouse-workers-idUSKBN2180Q1",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/7/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5613212famzn-fulfillmentjpgw700opresize.jpg",
+            "title": "Amazon raises overtime pay for warehouse workers",
+            "text": "Amazon.com Inc said on Saturday it is raising overtime pay for associates working in its U.S. warehouses as the world's largest online retailer tries to meet the rapidly growing demand for online shopping from consumers stuck at home during the coronavirus outbreak.",
+            "source_name": "Reuters",
+            "date": "Sat, 21 Mar 2020 21:47:57 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.cnet.com/news/amazon-ceo-bezos-writes-open-letter-to-thank-employees-amid-coronavirus/",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/p/105570860-1542114587035gettyimages-1066734506530x298.jpeg",
+            "title": "Amazon CEO Bezos writes open letter to thank employees amid coronavirus",
+            "text": "The letter comes as many employees and their supporters have called on Amazon to do more to help its warehouse workers.",
+            "source_name": "CNET",
+            "date": "Sat, 21 Mar 2020 20:20:00 -0400",
+            "topics": [
+                "CEO"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/21/jeff-bezos-memo-about-coronavirus-safety-at-amazon-warehouses.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/k/n/amazonhq2.jpg",
+            "title": "Read the memo Jeff Bezos sent to Amazon employees about coronavirus safety at warehouses",
+            "text": "Amazon CEO wrote: \"There is no instruction manual for how to feel at a time like this, and I know this causes stress for everyone.\"",
+            "source_name": "CNBC",
+            "date": "Sat, 21 Mar 2020 20:15:52 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://nypost.com/2020/03/21/mark-zuckerberg-talks-coronavirus-with-anthony-fauci-on-facebook-live/",
+            "image_url": "https://cdn.snapi.dev/images/v1/y/n/fbt2-2.jpg",
+            "title": "Mark Zuckerberg talks coronavirus with Anthony Fauci on Facebook Live",
+            "text": "America\u2019s coronavirus expert had a choice to make: Stand beside President Trump at a White House briefing or take questions from billionaire techie Mark Zuckerberg on Facebook. Dr. Anthony Fauci picked the Facebook gig.",
+            "source_name": "New York Post",
+            "date": "Sat, 21 Mar 2020 19:52:46 -0400",
+            "topics": [
+                "CEO"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "FB"
+            ]
+        },
+        {
+            "news_url": "https://www.geekwire.com/2020/internal-memo-jeff-bezos-tells-amazon-employees-hes-wholly-focused-covid-19-crisis/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/8/fb2-2.jpg",
+            "title": "Internal memo: Jeff Bezos tells Amazon employees he\u2019s \u2018wholly focused\u2019 on the COVID-19 crisis",
+            "text": "Amazon CEO Jeff Bezos says he has turned all of his attention to the impact of COVID-19, the tech giant\u2019s response to the spread of the disease, and its role in solutions.",
+            "source_name": "GeekWire",
+            "date": "Sat, 21 Mar 2020 19:37:10 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-amazon-shipping-ex/exclusive-amazon-com-to-stop-shipping-non-essentials-to-consumers-in-italy-and-france-idUSKBN2180YZ",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/0/m02d20200321t2i1506381808rlynxmpeg2k0knw640.jpg",
+            "title": "Exclusive: Amazon.com to stop shipping non-essentials to consumers in Italy and France",
+            "text": "Amazon.com will stop shipping non-essential products to consumers in Italy and France, the company said on Saturday, representing an escalation in the e-commerce giant's response in regions hard hit by the coronavirus outbreak.",
+            "source_name": "Reuters",
+            "date": "Sat, 21 Mar 2020 16:16:43 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/03/21/will-netflix-break-the-internet.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/i/o/net22.jpg",
+            "title": "Will Netflix Break the Internet?",
+            "text": "We suspected demand was surging as a result of the COVID-19 coronavirus outbreak -- and now we have proof.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 21 Mar 2020 16:13:00 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "NFLX"
+            ]
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/21/coronavirus-amazon-doubles-overtime-pay-for-warehouse-workers.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/9/c/amz9.jpg",
+            "title": "Amazon doubles overtime pay for warehouse workers as demand rises due to coronavirus",
+            "text": "All hourly associates working in the U.S. warehouses will receive double their regular hourly rate for every overtime hour over 40 hours a week.",
+            "source_name": "CNBC",
+            "date": "Sat, 21 Mar 2020 15:09:32 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/03/21/coronavirus-lockdown-netflix-youtube-and-amazon-pr.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/t/gtre22222-1.jpg",
+            "title": "Coronavirus Lockdown: Netflix, YouTube, and Amazon Prime Are Doing Something Silly and Smart In Europe",
+            "text": "The largest video streaming services in the world bend over backwards to please European regulators, even if there's no real problem to address here.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 21 Mar 2020 13:10:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "NFLX",
+                "GOOG",
+                "GOOGL"
+            ]
+        },
+        {
+            "news_url": "https://techcrunch.com/2020/03/21/whatsapp-search-web-coronavirus/",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/e/gettyimages-1207755289jpgw600.jpg",
+            "title": "WhatsApp tests new feature to fight misinformation: Search the web",
+            "text": "WhatsApp, one of the most popular instant messaging platforms on the planet, is testing a feature that could make it simpler for its 2 billion users to tell whether the assertion made in messages they have received is true.",
+            "source_name": "TechCrunch",
+            "date": "Sat, 21 Mar 2020 12:42:49 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "FB"
+            ]
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-amazon-com-exclusi/exclusive-amazon-raises-overtime-pay-for-warehouse-workers-idUSKBN2180Q1",
+            "image_url": "https://cdn.snapi.dev/images/v1/j/j/10amescg-1.jpg",
+            "title": "Exclusive: Amazon raises overtime pay for warehouse workers",
+            "text": "Amazon.com Inc said on Saturday it is raising overtime pay for associates working in its U.S. warehouses, as the world's largest online retailer tries to meet the rapidly growing demand for online shopping from consumers stuck at home during the coronavirus outbreak.",
+            "source_name": "Reuters",
+            "date": "Sat, 21 Mar 2020 12:25:06 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=DW4B7s2ZdBg",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/g/ama2edf-1.jpg",
+            "title": "How Coronavirus Could Slow Down Amazon Deliveries",
+            "text": "As Amazon orders surge, coronavirus delays deliveries and threatens to put sellers out of business.",
+            "source_name": "CNBC",
+            "date": "Sat, 21 Mar 2020 12:11:01 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Video",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/03/21/these-3-companies-are-getting-stronger-from-corona.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/b/200212160707-01-person-using-laptop-stock-super-169.jpg",
+            "title": "These 3 Companies Are Getting Stronger From Coronavirus-Induced Social Distancing",
+            "text": "The key is offering a great customer value proposition to housebound people.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 21 Mar 2020 11:34:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "CHWY",
+                "NFLX"
+            ]
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4333410-this-is-rare-opportunity",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/s/stm8-1.jpg",
+            "title": "This Is A Rare Opportunity",
+            "text": "This Is A Rare Opportunity",
+            "source_name": "Seeking Alpha",
+            "date": "Sat, 21 Mar 2020 10:35:49 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AAPL",
+                "AMZN",
+                "VTI",
+                "BRK-A",
+                "BRK-B"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/03/21/3-top-growth-stocks-to-buy-right-now.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/b/etf37-13.jpg",
+            "title": "3 Top Growth Stocks to Buy Right Now",
+            "text": "These growth stocks have the financial fortitude to weather a downturn and could deliver big returns over time.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 21 Mar 2020 10:21:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "LULU",
+                "SFIX"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/03/21/top-10-coronavirus-stocks-to-buy-right-now.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/3/0101ee.jpg",
+            "title": "Top 10 Coronavirus Stocks to Buy Right Now",
+            "text": "Here\u2019s how to invest during these uncertain times.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 21 Mar 2020 09:59:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "EA",
+                "FB",
+                "JD",
+                "NFLX",
+                "PTON",
+                "PYPL",
+                "SHOP",
+                "TDOC",
+                "ZM"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/03/21/3-stocks-to-buy-and-hold-for-decades.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/b/w/an-etf-strategy-to-smooth-out-the-volatility-in-small-cap-exposure.jpg",
+            "title": "3 Stocks to Buy and Hold for Decades",
+            "text": "These three top growth stocks are on sale and should power your returns all the way to retirement.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 21 Mar 2020 09:58:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "GOOG",
+                "GOOGL",
+                "NFLX",
+                "NKE"
+            ]
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/20/facebook-coronavirus-moves-could-help-restore-its-reputation.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/t/fb2-5.jpg",
+            "title": "Facebook has moved fast during coronavirus outbreak, and it could restore the company's reputation",
+            "text": "Over the past few weeks, Facebook has been quick to launch a number of efforts to help combat the spread of the coronavirus, creating some much needed goodwill for the often embattled social media company.",
+            "source_name": "CNBC",
+            "date": "Sat, 21 Mar 2020 09:16:01 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "FB"
+            ]
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/20/coronavirus-delays-amazon-orders-and-could-put-sellers-out-of-business.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/0/amazonjpegw318.jpg",
+            "title": "As Amazon orders surge, coronavirus delays deliveries and threatens to put sellers out of business",
+            "text": "Amid the rapid spread of coronavirus, as government officials tell people to stay home, Amazon is seeing an unprecedented surge in online orders causing delivery delays and items to go out of stock. In response, Amazon is hiring 100,000 new workers and halting the intake of any new inventory that isn't in high demand, which means heavy losses for third-party sellers.",
+            "source_name": "CNBC",
+            "date": "Sat, 21 Mar 2020 09:01:01 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/03/21/why-you-should-buy-shares-of-amazon.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/l/v/amzn22.jpg",
+            "title": "Why You Should Buy Shares of Amazon",
+            "text": "Amazon\u2019s investment in hiring to meet a surge in demand may mean higher revenue to come.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 21 Mar 2020 06:00:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/03/21/netflix-launches-100-million-coronavirus-relief-fu.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/n/ne2-2.jpg",
+            "title": "Netflix Launches $100 Million Coronavirus Relief Fund for Cast and Crew",
+            "text": "The streaming giant wants to give back to the creative community that helped make it a household name.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 21 Mar 2020 00:05:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "NFLX"
+            ]
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-amazon-com-senator/u-s-senators-question-amazon-on-coronavirus-safety-at-warehouses-idUSKBN2173IZ",
+            "image_url": "https://cdn.snapi.dev/images/v1/q/f/105462257-1537460286826rts205f8.jpg",
+            "title": "U.S. senators question Amazon on coronavirus safety at warehouses",
+            "text": "Four Democratic U.S. senators on Friday expressed concern in a letter to Amazon.com Inc Chief Executive Jeff Bezos that the world's largest online retailer has not given enough support to warehouse staff during the coronavirus outbreak, according to a copy of the message seen by Reuters.",
+            "source_name": "Reuters",
+            "date": "Fri, 20 Mar 2020 22:02:15 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.geekwire.com/2020/amazon-calls-accusations-simply-unfounded-senators-question-warehouse-worker-protection/",
+            "image_url": "https://cdn.snapi.dev/images/v1/j/u/20161128-amazon-fulfillment-center-162-768x512.jpg",
+            "title": "Amazon calls accusations \u2018simply unfounded\u2019 after senators question warehouse worker protection",
+            "text": "U.S. senators are scrutinizing Amazon\u2019s handling of its warehouse workers amid the COVID-19 outbreak.",
+            "source_name": "GeekWire",
+            "date": "Fri, 20 Mar 2020 20:54:46 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/03/20/senators-to-bezos-give-amazon-warehouse-workers-sick-leave-hazard-pay.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/b/ar22.jpg",
+            "title": "Senators urge Jeff Bezos to give Amazon warehouse workers sick leave, hazard pay",
+            "text": "Four senators urged the Amazon CEO to provide paid sick leave for warehouse workers.",
+            "source_name": "CNBC",
+            "date": "Fri, 20 Mar 2020 19:06:19 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "http://www.zacks.com/stock/news/826092/buy-amazon-amzn-stock-because-its-immune-to-the-coronavirus",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/c/3ama.jpg",
+            "title": "Buy Amazon (AMZN) Stock Because It's Immune to the Coronavirus?",
+            "text": "Amazon (AMZN) stock has fallen over the last month. However, the company's core businesses, e-commerce and cloud computing, seem tailor-made to withstand the current market conditions.",
+            "source_name": "Zacks Investment Research",
+            "date": "Fri, 20 Mar 2020 18:48:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "http://www.zacks.com/commentary/826068/tech-is-the-solution",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/h/catalog-mail9.jpg",
+            "title": "Tech Is The Solution",
+            "text": "Tech Is The Solution",
+            "source_name": "Zacks Investment Research",
+            "date": "Fri, 20 Mar 2020 18:25:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "AMZN",
+                "CSCO",
+                "ZM"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=ckb0qAl26Ao",
+            "image_url": "https://cdn.snapi.dev/images/v1/3/3/amazonhq2.jpg",
+            "title": "Markets Pull Back But Rally Still Intact; Fear Index, GSX Techedu and Amazon In Focus",
+            "text": "After a lot of punishment, markets are trying to rebound. Could the bottom be near?",
+            "source_name": "Investors Business Daily",
+            "date": "Fri, 20 Mar 2020 18:18:33 -0400",
+            "topics": [
+                "tanalysis"
+            ],
+            "sentiment": "Positive",
+            "type": "Video",
+            "tickers": [
+                "AMZN",
+                "GSX"
+            ]
+        },
+        {
+            "news_url": "https://techcrunch.com/2020/03/20/aws-ibm-launch-programs-to-encourage-developers-solving-covid-19-problems/",
+            "image_url": "https://cdn.snapi.dev/images/v1/q/l/artificial-intelligence-768x432-2.jpg",
+            "title": "AWS, IBM launch programs to encourage developers solving COVID-19 problems",
+            "text": "As society comes to grips with the growing worldwide crisis related to the COVID-19 virus, many companies are stepping up in different ways. Today, two major tech companies \u2014 Amazon and IBM \u2014 each announced programs to encourage developers find solutions to a variety of problems related to the pandemic.",
+            "source_name": "TechCrunch",
+            "date": "Fri, 20 Mar 2020 17:35:53 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "IBM",
+                "AMZN"
+            ]
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/travisbean/2020/03/20/netflix-sets-up-100-million-coronavirus-relief-fund-for-production-workforce/",
+            "image_url": "https://cdn.snapi.dev/images/v1/b/0/netflix-sets-up-100-million-coronavirus-relief-fund-for-production-workforce.jpg",
+            "title": "Netflix Sets Up $100 Million Coronavirus Relief Fund For Production Workforce",
+            "text": "To aid production companies that have been crippled by the coronavirus outbreak, Netflix has pledged $100 million to hundreds of thousands of employees\u2014both inside and outside the Netflix umbrella\u2014currently out of work.",
+            "source_name": "Forbes",
+            "date": "Fri, 20 Mar 2020 16:58:26 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "NFLX"
+            ]
+        },
+        {
+            "news_url": "https://www.cnn.com/2020/03/20/business/amazon-warehouse-employees-coronavirus/index.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/l/w/amazon-3.jpg",
+            "title": "Amazon warehouse workers fear catching coronavirus just to deliver your packages",
+            "text": "Amazon has become a lifeline for many people desperate to buy household essentials without stepping out of their homes amid the coronavirus outbreak, but some Amazon warehouse workers are plagued by anxiety that their jobs could put their lives, or the lives of their families, at risk.",
+            "source_name": "CNN Business",
+            "date": "Fri, 20 Mar 2020 16:33:09 -0400",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "AMZN"
+            ]
         }
     ]
+    
 }
