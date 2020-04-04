@@ -15,7 +15,7 @@ dataset = json_normalize(datastore['data'])[['text','sentiment']]
 # print("Number of Neutral:",list(dataset["sentiment"]).count("Neutral"))
 
 #select the nth row, and select a column
-# print(dataset.iloc[12]['text'])
+# print(dataset.iloc[1]['text'])
 
 # print(dataset[])
 
@@ -41,7 +41,7 @@ def preprocessing(dataset, pos_articles, neg_articles,neut_articles):
         # print(index, row['text'],row['sentiment'])
         words = re.sub("[^(\w)]", " ", str(row['text'])).split()
         # Cleaning of list "words" and Inserting into pdf column
-        cleaned = [x.lower() for x in words if x.lower() not in eng_stopwords and x not in string.punctuation and len(x)>2 and not x.isdigit()]
+        cleaned = [x.lower() for x in words if x.lower() not in eng_stopwords and x not in string.punctuation and len(x)>3 and not x.isdigit()]
         dataset.at[index, 'cleaned'] = cleaned
         # dataset.insert(index, 'cleaned', cleaned, allow_duplicates=False)
         
@@ -58,8 +58,8 @@ def makeFeatures(cleanedWords):
     for bi in bigrams(cleanedWords):
         cleaned.append(bi)
     # #using trigrams
-    for tri in trigrams(cleanedWords):
-        cleaned.append(tri)
+    # for tri in trigrams(cleanedWords):
+    #     cleaned.append(tri)
 
     words_dict = dict([word, True] for word in cleaned)
     return words_dict
