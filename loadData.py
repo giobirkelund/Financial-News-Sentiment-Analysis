@@ -1,18 +1,23 @@
-
 # api key: 6onk1z6389zttkq1luwvdtlvaffre9orbymgtckp
 import pandas as pd
+import numpy as np
 import json
+import random
 from pandas.io.json import json_normalize
 
 with open('stocknews.json', 'r') as f:
     datastore = json.load(f,strict=False)
-
 #Use the new datastore datastructure
-dataset = json_normalize(datastore['data'])[['text','sentiment']]
-# print(dataset)
-# print("Number of Positive:",list(dataset["sentiment"]).count("Positive"))
-# print("Number of Negative:",list(dataset["sentiment"]).count("Negative"))
-# print("Number of Neutral:",list(dataset["sentiment"]).count("Neutral"))
+dataset = json_normalize(datastore['data'])[['title','text','sentiment']]
+dataset.sort_values("title", inplace = True) 
+# dropping ALL duplicte values 
+dataset.drop_duplicates(subset ="title", 
+                     keep = False, inplace = True) 
+np.random.shuffle(dataset.values)
+print(dataset)
+print("Number of Positive:",list(dataset["sentiment"]).count("Positive"))
+print("Number of Negative:",list(dataset["sentiment"]).count("Negative"))
+print("Number of Neutral:",list(dataset["sentiment"]).count("Neutral"))
 
 #select the nth row, and select a column
 # print(dataset.iloc[1]['text'])
@@ -33,13 +38,12 @@ import re
 
 
 
-
 def preprocessing(dataset, pos_articles, neg_articles,neut_articles):
     eng_stopwords = stopwords.words('english')
     dataset['cleaned'] = None #creating new column for cleaned up text
     for index, row in dataset.iterrows():
-        # print(index, row['text'],row['sentiment'])
-        words = re.sub("[^(\w)]", " ", str(row['text'])).split()
+        
+        words = re.sub("[^(\w)]", " ", str(row['title'])+str(row['text'])).split()
         # Cleaning of list "words" and Inserting into pdf column
         cleaned = [x.lower() for x in words if x.lower() not in eng_stopwords and x not in string.punctuation and len(x)>3 and not x.isdigit()]
         dataset.at[index, 'cleaned'] = cleaned
@@ -51,15 +55,16 @@ def preprocessing(dataset, pos_articles, neg_articles,neut_articles):
             pos_articles.append(cleaned)
         elif(row['sentiment'] == 'Neutral'):
             neut_articles.append(cleaned)
+    # print(dataset)
     return neg_articles, pos_articles, neut_articles
 
 def makeFeatures(cleanedWords):
     cleaned = list(cleanedWords)
     for bi in bigrams(cleanedWords):
         cleaned.append(bi)
-    # #using trigrams
-    # for tri in trigrams(cleanedWords):
-    #     cleaned.append(tri)
+    #using trigrams
+    for tri in trigrams(cleanedWords):
+        cleaned.append(tri)
 
     words_dict = dict([word, True] for word in cleaned)
     return words_dict
@@ -91,7 +96,7 @@ def main():
     neg_articles= []
     pos_articles= []
     neut_articles= []
-
+    
     neg_articles, pos_articles, neut_articles = preprocessing(dataset, pos_articles, neg_articles,neut_articles)
     
     # print(pos_articles)
