@@ -1,0 +1,598 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.forbes.com/sites/qai/2020/04/04/short-high-yield-credit-to-hedge-your-stocks-portfolio/",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/r/short-high-yield-credit-to-hedge-your-stocks-portfolio.jpg",
+            "title": "Short High Yield Credit To Hedge Your Stocks Portfolio",
+            "text": "After another week of volatile trading in the US stock market, shorting high yield credit might be the best way to hedge your portfolio.  We explain why.",
+            "source_name": "Forbes",
+            "date": "Sat, 04 Apr 2020 11:48:24 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-oil/oil-surges-more-than-13-on-hopes-of-output-deal-idUSKBN21K3HZ",
+            "image_url": "https://cdn.snapi.dev/images/v1/v/m/m02d20190808t2i1416834249rlynxnpef771jxw640.jpg",
+            "title": "Oil surges more than 13% on hopes of output deal",
+            "text": "Crude futures surged for a second day on Friday, with both U.S. and Brent contracts posting their largest weekly percentage gains on record due to hopes that a global deal to cut crude supply worldwide will emerge early next week.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 15:48:22 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/4d0afebe-2a73-4187-babb-0116400dfaa7",
+            "image_url": "https://cdn.snapi.dev/images/v1/o/i/oil23-4.jpg",
+            "title": "U.S. oil prices climb by nearly 32% for the week",
+            "text": "Oil futures climbed on Friday, with U.S. prices tallying a weekly gain of almost 32%.",
+            "source_name": "Market Watch",
+            "date": "Fri, 03 Apr 2020 14:47:23 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.etftrends.com/core-equity-channel/window-of-opportunity-in-high-yield/",
+            "image_url": "https://cdn.snapi.dev/images/v1/k/o/stocks1234-3.jpg",
+            "title": "A Window of Opportunity in High Yield",
+            "text": "In the past, we have argued against market timing and have made the case for high yield as a strategic allocation. While this belief still holds true, it is also true that low probability occurrences may present rare opportunities.",
+            "source_name": "ETF Trends",
+            "date": "Fri, 03 Apr 2020 14:14:39 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.benzinga.com/news/20/04/15741303/why-fate-therapeutics-is-trading-higher-today",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/7/laboratory-2815641-1920-28.jpg",
+            "title": "Why Fate Therapeutics Is Trading Higher Today",
+            "text": "Fate Therapeutics Inc (NASDAQ: FATE) shares are trading higher on Friday, after a multi-billion dollar deal with Janssen Biotech to develop cell therapies for the treatment of cancer.",
+            "source_name": "Benzinga",
+            "date": "Fri, 03 Apr 2020 14:03:56 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/39dad9c9-ca28-4eef-b9a0-083d4036ebb8",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/o/gold17-9.jpg",
+            "title": "Gold futures end higher, but see modest weekly fall",
+            "text": "Gold futures ended higher on Friday as a drop in March U.S. employment helped to lift demand for the haven metal.",
+            "source_name": "Market Watch",
+            "date": "Fri, 03 Apr 2020 13:40:51 -0400",
+            "topics": [
+                "gold"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-oil/brent-crude-surges-10-on-hopes-of-oil-output-deal-idUSKBN21K3HZ",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/f/106468028-1585642555252gettyimages-1206328965.jpeg",
+            "title": "Brent crude surges 10% on hopes of oil output deal",
+            "text": "Crude futures surged for a second day on Friday, with benchmark Brent up 10% on hopes that a global deal to cut crude supply worldwide will emerge early next week.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 13:18:32 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.etftrends.com/etf-strategist-channel/equity-market-rallies-as-massive-fiscal-stimulus-passes/",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/w/marketcomm-blog-mar30-fig01-1024x732.jpg",
+            "title": "Equity market rallies as massive fiscal stimulus passes",
+            "text": "Equities rally aggressively Equity market volatility continues as investors, who are now mostly working from home, grapple with the evolution of COVID-19 and government stimulus. After touching its lowest reading since December 2016, on 3/23/2020 the S&P 500 (SPX) rallied aggressively and closed the week up 10.3%.",
+            "source_name": "ETF Trends",
+            "date": "Fri, 03 Apr 2020 11:05:59 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/d83b2d7c-75a9-11ea-bd68-f15645e417b7",
+            "image_url": "https://cdn.snapi.dev/images/v1/w/i/mw-ib381-jcrew-20200303145501-zhjpguuidde706164-5d88-11ea-aa83-9c8e992d421e.jpg",
+            "title": "Economic Report: U.S. service sector continued to expand in March, ISM says",
+            "text": "The numbers: U.S. services and other non-manufacturing companies reported continued growth in March, but at the slowest pace since August 2016, the Institute for Supply Management said Friday.",
+            "source_name": "Market Watch",
+            "date": "Fri, 03 Apr 2020 10:25:12 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-usa-loans/u-s-small-banks-have-processed-more-than-700-small-business-relief-loans-for-2-5-million-mnuchin-idUSKBN21L1Y8",
+            "image_url": "https://cdn.snapi.dev/images/v1/q/q/m02d20200403t2i1511947499rlynxmpeg321bfw640.jpg",
+            "title": "U.S. small banks have processed more than 700 small business relief loans for $2.5 million: Mnuchin",
+            "text": "U.S. Treasury Secretary Steven Mnuchin said on Friday that community banks have processed hundreds of small business loans aimed at shoring up the economy amid the global coronavirus pandemic, and sounded a positive note about a new program that lenders have greeted with skepticism.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 09:07:23 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/04/03/oil-jumps-another-12percent-a-day-after-its-best-day-on-record-as-traders-expect-big-production-cuts.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/5/104137916-gettyimages-588167254.jpg",
+            "title": "Oil jumps another 12% a day after its best day on record as traders expect big production cuts",
+            "text": "Oil prices rose more than 10% on Friday, one day after posting their day in history, on the hope that a production cut deal will soon be reached.",
+            "source_name": "CNBC",
+            "date": "Fri, 03 Apr 2020 08:57:22 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/gauravsharma/2020/04/03/brent-oil-futures-jump-10-as-opec-scrambles-urgent-meeting/",
+            "image_url": "https://cdn.snapi.dev/images/v1/j/7/oil-price-truce-brent-futures-jump-10-as-opec-scrambles-urgent-meeting.jpg",
+            "title": "Oil Price Truce? Brent Futures Jump 10% As OPEC+ Scrambles Urgent Meeting",
+            "text": "Announcement of a crude producers' meeting follows claim by U.S. President Donald Trump that production cuts of \"10-15 million barrels\" might be on the horizon.",
+            "source_name": "Forbes",
+            "date": "Fri, 03 Apr 2020 08:30:47 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-oil/brent-oil-rises-above-32-on-hopes-of-output-deal-idUSKBN21K3HZ",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/y/stock-exchange-738671-1280-1-24.jpg",
+            "title": "Brent oil rises above $32 on hopes of output deal",
+            "text": "Benchmark Brent crude oil futures rose as high as $33.05 a barrel on Friday on rising hopes of a new global deal to cut global crude supply.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 06:57:39 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnn.com/2020/04/03/business/oil-prices-opec-meeting/index.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/w/c/200403102810-russia-oil-tanks-0323-restricted-super-169.jpg",
+            "title": "Oil prices march higher as OPEC calls for emergency meeting on Monday",
+            "text": "OPEC will meet on Monday with Russia and other oil producers in the hope of agreeing supply cuts and ending a brutal price war.",
+            "source_name": "CNN Business",
+            "date": "Fri, 03 Apr 2020 06:09:37 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-forex/dollar-resumes-climb-as-investors-bid-for-safety-idUSKBN21L04I",
+            "image_url": "https://cdn.snapi.dev/images/v1/v/h/m02d20200403t2i1511725089rlynxmpeg3202bw640.jpg",
+            "title": "Dollar resumes climb as investors bid for safety",
+            "text": "The dollar resumed its climb versus major currencies on Friday as investors once again made safety bids, amid worsening economic fallout from the coronavirus pandemic.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 05:26:35 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-oil/brent-reverses-losses-to-rise-above-30-bbl-in-early-european-trading-idUSKBN21K3HZ",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/f/m02d20200403t2i1511739272rlynxmpeg312i1w640.jpg",
+            "title": "Brent reverses losses to rise above $30/bbl in early European trading",
+            "text": "Benchmark Brent crude oil futures reversed losses incurred during Asian hours in early European trading on Friday to rise above $30 a barrel, with hopes of a huge global supply cut deal to support prices still alive.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 04:12:29 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-forex/dollar-consolidates-as-hopes-for-quick-recovery-evaporate-idUSKBN21L04I",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/0/m02d20200403t2i1511725089rlynxmpeg3202bw640.jpg",
+            "title": "Dollar consolidates as hopes for quick recovery evaporate",
+            "text": "The dollar edged toward a 2% weekly rise on Friday, boosted by a surge in the oil price and as investors sought safety amid the worsening economic fallout from the coronavirus pandemic.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 01:19:56 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-usa-smallbusiness/mnuchin-says-small-business-rescue-loans-launch-friday-despite-lender-confusion-idUSKBN21K32Z",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/8/m02d20200403t2i1511703852rlynxmpeg32002w640.jpg",
+            "title": "Mnuchin says small business rescue loans launch Friday, despite lender confusion",
+            "text": "U.S. Treasury Secretary Steven Mnuchin said he was pressing ahead with the Friday launch of a $349 billion coronavirus rescue loan program for small businesses despite confusion over last-minute final rules and lenders unprepared to approve applications.",
+            "source_name": "Reuters",
+            "date": "Thu, 02 Apr 2020 20:02:47 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-markets/asian-markets-look-to-follow-wall-street-rally-as-oil-surges-idUSKBN21K3M3",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/v/m02d20200402t2i1511697950rlynxmpeg312knw640.jpg",
+            "title": "Asian markets look to follow Wall Street rally as oil surges",
+            "text": "Asian markets on Friday looked to latch onto Wall Street's overnight gains after crude prices notched their biggest one-day surge on record, helping offset concerns about the depth of a global recession.",
+            "source_name": "Reuters",
+            "date": "Thu, 02 Apr 2020 19:44:30 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-fed-balancesheet/fed-balance-sheet-increases-to-record-5-86-trillion-idUSKBN21K3HB",
+            "image_url": "https://cdn.snapi.dev/images/v1/y/v/m02d20200402t2i1511671602rlynxmpeg312hgw640.jpg",
+            "title": "Fed balance sheet increases to record $5.86 trillion",
+            "text": "The Federal Reserve's balance sheet increased to a record $5.86 trillion this week and the central bank reported greater use of some of its newly launched liquidity facilities, all part of its efforts to keep markets functioning smoothly amid heightened volatility related to the coronavirus pandemic.",
+            "source_name": "Reuters",
+            "date": "Thu, 02 Apr 2020 18:16:01 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "http://www.gurufocus.com/news/1094674/us-indexes-close-higher-thursday",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/t/stocks1288-2.jpg",
+            "title": "US Indexes Close Higher Thursday (April 02)",
+            "text": "The Dow Jones Industrial Average closed at 21,413.44 on Thursday with a gain of 469.93 points or 2.24%.",
+            "source_name": "GuruFocus",
+            "date": "Thu, 02 Apr 2020 17:41:43 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://techcrunch.com/2020/04/02/u-s-markets-shrug-off-record-unemployment-numbers-as-tech-shares-rise/",
+            "image_url": "https://cdn.snapi.dev/images/v1/4/f/stock-market-nasdaqjpegw600.jpg",
+            "title": "U.S. markets shrug off record unemployment numbers as tech shares rise",
+            "text": "Despite reports of historic unemployment with roughly 6.6 million Americans filing for unemployment, domestic stocks rose during regular trading today. One day after grim estimates on the potential death toll from the COVID-19 epidemic in the US sent stocks tumbling and amid a continuing economic fallout from the government\u2019s response to slow the spread of [\u2026]",
+            "source_name": "TechCrunch",
+            "date": "Thu, 02 Apr 2020 16:42:31 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/04/02/what-happened-to-the-stock-market-thursday-oil-rally-leads-stocks-higher.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/2/y/106446608-1584387057082gettyimages-1207384900.jpeg",
+            "title": "Here's what happened to the stock market on Thursday (April 02)",
+            "text": "Stocks traded in a wide range Thursday as investors weighed a record jump in unemployment claims and a sharp rally in oil prices.",
+            "source_name": "CNBC",
+            "date": "Thu, 02 Apr 2020 16:14:52 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/8b05ce0a-70bc-417e-befd-6c4984832332",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/4/m02d20191126t2i1457020850rlynxmpefap1esw640.jpg",
+            "title": "Dow closes more than 450 points higher on hopes of Russian-Saudi oil output cuts",
+            "text": "Stocks closed higher on Thursday amid hopes that Saudi Arabia and Russia will curtail oil production, providing stability to energy markets roiled by the price war between the two crude exporters.",
+            "source_name": "Market Watch",
+            "date": "Thu, 02 Apr 2020 16:08:56 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-oil-saudi-russia/trump-touts-great-saudi-russia-oil-deal-to-halt-price-rout-details-unclear-idUSKBN21K0EA",
+            "image_url": "https://cdn.snapi.dev/images/v1/k/v/m02d20200402t2i1511527983rlynxmpeg311chw640.jpg",
+            "title": "Trump touts 'great' Saudi-Russia oil deal to halt price rout, details unclear",
+            "text": "U.S President Donald Trump said on Thursday he had brokered a deal with top crude producers Russia and Saudi Arabia to cut output and arrest an oil price rout amid the global coronavirus pandemic, though details of how the cut would work were unclear.",
+            "source_name": "Reuters",
+            "date": "Thu, 02 Apr 2020 15:43:12 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/b4d6e36c-17c1-44d7-b4d6-3a09cc40ea5d",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/n/105176942-gettyimages-951980708.jpg",
+            "title": "U.S. oil prices settle nearly 25% higher; Trump expects a Saudi Arabia-Russia output cut",
+            "text": "Oil futures rallied Thursday, finding support after President Donald Trump tweeted that he spoke to Saudi Arabia's Crown Prince Mohammed bin Salman, who held a discussion with Russian President Vladimir Putin, and now expects the two major oil producers to announce a production cut of \"approximately 10 Million Barrels.",
+            "source_name": "Market Watch",
+            "date": "Thu, 02 Apr 2020 14:42:37 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnn.com/2020/04/02/business/oil-prices-trump-russia-saudi-arabia/index.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/q/d/200402110912-us-gas-station-0401-restricted-super-169.jpg",
+            "title": "Oil: Prices soar as Trump talks up huge production cuts and Saudi Arabia calls for OPEC meeting",
+            "text": "Hopes are building for a truce in the brutal oil price war between Saudi Arabia and Russia.",
+            "source_name": "CNN Business",
+            "date": "Thu, 02 Apr 2020 14:22:32 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.seeitmarket.com/gold-futures-trading-update-breakout-could-target-1740/",
+            "image_url": "https://cdn.snapi.dev/images/v1/d/j/1361-8.jpg",
+            "title": "Gold Futures Trading Update: Breakout Could Target $1740",
+            "text": "Gold Futures \u201cdaily\u201d Trading Chart After forming a tradable bottom in March, Gold futures rallied up to test its 2020 highs. Since then, Gold has fallen in a flag-like consolidation, reaching what I think may have been another tradable bottom early this week.",
+            "source_name": "See It Market",
+            "date": "Thu, 02 Apr 2020 13:52:30 -0400",
+            "topics": [
+                "gold"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/a3b6591a-f7ab-4a5a-aa5a-549772a6488d",
+            "image_url": "https://cdn.snapi.dev/images/v1/x/a/m02d20191126t2i1457022131rlynxmpefap1e4w640.jpg",
+            "title": "Gold futures end higher as weekly jobless claims climb to record",
+            "text": "Gold futures ended higher on Thursday, with the haven metal getting a boost on the heels of a climb in U.S.",
+            "source_name": "Market Watch",
+            "date": "Thu, 02 Apr 2020 13:47:08 -0400",
+            "topics": [
+                "gold"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/c6bdca7b-cac7-45e4-8096-f4a825081098",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/7/an-etf-strategy-to-smooth-out-the-volatility-in-small-cap-exposure.jpg",
+            "title": "Fed likely to support municipal-debt, says former New York Fed president",
+            "text": "The Federal Reserve is likely to support municipal debt, said William Dudley, the former president of the New York Federal Reserve, on Thursday.",
+            "source_name": "Market Watch",
+            "date": "Thu, 02 Apr 2020 12:32:26 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-markets/stocks-climb-as-investors-digest-grim-u-s-jobs-data-idUSKBN21J74A",
+            "image_url": "https://cdn.snapi.dev/images/v1/5/q/105545779-1541079407243rtx6fbtj.jpg",
+            "title": "Stocks climb as investors digest grim U.S. jobs data",
+            "text": "World equity markets climbed on Thursday on the back of a surge in risky assets like oil, offsetting concerns over an increasing death toll from the coronavirus pandemic that is expected to push the global economy into a recession.",
+            "source_name": "Reuters",
+            "date": "Thu, 02 Apr 2020 12:30:29 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.etftrends.com/relative-value-channel/active-managers-can-expose-their-opportunities-in-emerging-markets/",
+            "image_url": "https://cdn.snapi.dev/images/v1/9/b/106237204-1573475599188rtx77m4b.jpg",
+            "title": "Active Managers Can Expose Opportunities in Emerging Markets",
+            "text": "With the coronavirus pandemic taking hold of the global markets, it might seem like investors wouldn\u2019t touch emerging markets (EM) with a 10-foot pole. However, EM at its current state can expose opportunities for active managers who are willing to deftly navigate the risk.",
+            "source_name": "ETF Trends",
+            "date": "Thu, 02 Apr 2020 12:10:54 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/sergeiklebnikov/2020/04/02/stocks-rally-despite-weekly-jobless-claims-surging-to-66-million/",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/y/stocks-rally-despite-weekly-jobless-claims-surging-to-66-million.jpg",
+            "title": "Stocks Rally Despite Weekly Jobless Claims Surging To 6.6 Million",
+            "text": "The market had a volatile open, amid a shocking rise in weekly unemployment claims.",
+            "source_name": "Forbes",
+            "date": "Thu, 02 Apr 2020 11:31:24 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "http://www.gurufocus.com/news/1093697/warren-buffett-heres-how-ordinary-investors-can-benefit-from-wild-price-swings",
+            "image_url": "https://cdn.snapi.dev/images/v1/l/0/106216647-1572551374530gettyimages-1179069735.jpeg",
+            "title": "Warren Buffett: Here\u2019s How Ordinary Investors Can Benefit From Wild Price Swings",
+            "text": "There is a widely held belief in risk management circles that the risk of a particular stock (or any other type of asset) can be estimated from its historical volatility.",
+            "source_name": "GuruFocus",
+            "date": "Thu, 02 Apr 2020 10:54:01 -0400",
+            "topics": [
+                "wbuffett"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://seekingalpha.com/article/4335543-market-recovery-sooner-expect",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/0/106468320-15856581191502020-03-24t142229z-470140335-rc2eqf99aa0a-rtrmadp-3-health-coronavirus-banks-bonuses.jpg",
+            "title": "Market Recovery: Sooner Than Most Expect",
+            "text": "Sentiment and positioning are exceptionally one sided.",
+            "source_name": "Seeking Alpha",
+            "date": "Thu, 02 Apr 2020 09:01:00 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-usa-stocks/stock-futures-gain-as-oil-tensions-ease-jobless-data-awaited-idUSKBN21K1ET",
+            "image_url": "https://cdn.snapi.dev/images/v1/d/i/m02d20200402t2i1511477105rlynxmpeg3117sw640.jpg",
+            "title": "Stock futures gain as oil tensions ease; jobless data awaited",
+            "text": "U.S. stock index futures bounced on Thursday as oil prices recovered on hopes of a Saudi-Russia deal to cut output, but expectations of another surge in U.S. jobless claims due to the coronavirus kept investors on edge.",
+            "source_name": "Reuters",
+            "date": "Thu, 02 Apr 2020 08:16:56 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/c9a4af1e-74c2-11ea-9abe-1a59c2664716",
+            "image_url": "https://cdn.snapi.dev/images/v1/w/g/mw-id610-googp-20200402061830-zhjpguuid4d190f72-74cb-11ea-81e1-9c8e992d421e.jpg",
+            "title": "Deep Dive: 20 technology stocks with low debt to consider owning in a down market",
+            "text": "Mark Grant, the chief global strategist for fixed income at B. Riley FBR, is usually focused on the bond market, but he had an interesting suggestion for long-term investors that he shared with Stuart Varney on Fox Business:",
+            "source_name": "Market Watch",
+            "date": "Thu, 02 Apr 2020 08:02:08 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnn.com/2020/04/02/economy/recession-how-long-will-it-be/index.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/z/200326082705-us-capitol-0324-super-169.jpg",
+            "title": "Economy: How quickly can the US bounce back? That depends",
+            "text": "Three weeks ago, the big question about the economy was: Will we have a recession? How quaint that seems now.",
+            "source_name": "CNN Business",
+            "date": "Thu, 02 Apr 2020 06:23:51 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-forex/dollar-maintains-gains-after-weeks-of-rallying-idUSKBN21K02Z",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/0/m02d20200402t2i1511270965rlynxmpeg31016w640.jpg",
+            "title": "Dollar maintains gains after weeks of rallying",
+            "text": "The U.S. dollar firmed on Thursday but paused its strong rally of recent weeks after the Federal Reserve made it easier for other central banks to swap their currencies for dollars.",
+            "source_name": "Reuters",
+            "date": "Thu, 02 Apr 2020 05:24:06 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/3e5b3ee8-0f28-4ab9-a698-112f9a2d27e0",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/z/105638005-1545256725122gettyimages-1084667734.jpg",
+            "title": "Energy sector leads Europe stocks higher after rough start to second quarter",
+            "text": "European stocks SXXP, -2.90% edged higher at the open on Tuesday, recovering a bit of the lost ground from the rough start to the second quarter.",
+            "source_name": "Market Watch",
+            "date": "Thu, 02 Apr 2020 03:10:55 -0400",
+            "topics": [
+                "earnings"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/5eae6eb8-edb6-455e-92ea-42e5bae92334",
+            "image_url": "https://cdn.snapi.dev/images/v1/2/f/m02d20191127t2i1457385542rlynxmpefaq199w640.jpg",
+            "title": "U.S. stock futures tick up after Wall Street's ugly start to April",
+            "text": "U.S. stock index futures rose late Wednesday, suggesting gains when trading resumes Thursday morning following another day of sharp losses on Wall Street.",
+            "source_name": "Market Watch",
+            "date": "Wed, 01 Apr 2020 19:31:36 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-oil/u-s-crude-oil-futures-up-4-8-support-at-20-idUSKBN21J6ZR",
+            "image_url": "https://cdn.snapi.dev/images/v1/d/w/m02d20200401t2i1511246946rlynxmpeg3051dw640.jpg",
+            "title": "U.S. crude oil futures up 4.8%, support at $20",
+            "text": "U.S. crude oil futures opened 5% higher on Thursday, reversing Wednesday's losses, despite growing concerns about a looming economic depression due to the coronavirus pandemic.",
+            "source_name": "Reuters",
+            "date": "Wed, 01 Apr 2020 19:25:59 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnn.com/2020/04/01/investing/global-stocks/index.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/8/200401180906-nyse-file-super-169.jpg",
+            "title": "US stock futures up Wednesday after a rough start to Q2 for Wall Street",
+            "text": "US stock futures were up Wednesday following a rough start to the second quarter for Wall Street.",
+            "source_name": "CNN Business",
+            "date": "Wed, 01 Apr 2020 18:45:55 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-oil-wti/u-s-crude-oil-futures-jump-5-at-open-idUSKBN21J6ZR",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/y/m02d20200401t2i1511229590rlynxmpeg3051dw640.jpg",
+            "title": "U.S. crude oil futures jump 5% at open",
+            "text": "U.S. crude oil futures rose 5% on the open on Thursday, reversing Wednesday's losses, despite growing concerns about a looming economic depression due to the coronavirus pandemic.",
+            "source_name": "Reuters",
+            "date": "Wed, 01 Apr 2020 18:27:08 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/04/01/stock-market-futures-open-to-close-news.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/d/106468320-15856581191502020-03-24t142229z-470140335-rc2eqf99aa0a-rtrmadp-3-health-coronavirus-banks-bonuses.jpg",
+            "title": "Stock futures positive as market tries to rebound from second quarter's rocky start",
+            "text": "U.S. stock futures pointed to modest gains at the open on Thursday, one day after markets kicked off the second quarter in the red",
+            "source_name": "CNBC",
+            "date": "Wed, 01 Apr 2020 18:16:38 -0400",
+            "topics": [
+                "earnings"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-hedgefunds/multi-strategy-hedge-funds-outperformed-peers-as-market-plunged-idUSKBN21J6S8",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/4/m02d20200401t2i1511194123rlynxmpeg304wgw640.jpg",
+            "title": "Multi-strategy hedge funds outperformed peers as market plunged",
+            "text": "Multi-strategy hedge funds - those that bet on a broad array of markets using teams of traders, leverage and centralized risk management - have flourished as stocks ended their worst three months since the 2008 financial crisis.",
+            "source_name": "Reuters",
+            "date": "Wed, 01 Apr 2020 16:30:29 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/qai/2020/04/01/top-options-plays-for-your-portfolio-as-market-sells-off/",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/o/to3jxn.jpg",
+            "title": "Top Options Plays For Your Portfolio As Market Sells Off",
+            "text": "As the stock market retreats from its multi-week highs, we take a look at some options strategies you should consider for your portfolio.",
+            "source_name": "Forbes",
+            "date": "Wed, 01 Apr 2020 13:26:07 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://investorplace.com/stocks-to-buy-the-law-of-accelerating-returns/",
+            "image_url": "https://cdn.snapi.dev/images/v1/b/u/law-of-accelerating-returns-768x432.jpg",
+            "title": "20 Stocks to Buy From the Law of Accelerating Returns",
+            "text": "The law of accelerating returns is the most important economic concept you've never heard of, and it's why these stocks are strong buys. \nThe post 20 Stocks to Buy From the Law of Accelerating Returns appeared first on InvestorPlace.",
+            "source_name": "InvestorPlace",
+            "date": "Wed, 01 Apr 2020 13:03:36 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.etftrends.com/etf-strategist-channel/how-long-term-put-options-help-investors-take-advantage-of-a-bear-market/",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/l/m02d20200401t2i1510812922rlynxmpeg302lcw640.jpg",
+            "title": "How Long-Term Put Options Help Investors Take Advantage of a Bear Market",
+            "text": "By\u00a0Swan Global Investments Unpredictable markets can make growing wealth and avoiding losses difficult. Put options are an effective way to manage and reduce this unpredictability.",
+            "source_name": "ETF Trends",
+            "date": "Wed, 01 Apr 2020 12:40:53 -0400",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-oil/oil-benchmarks-mixed-after-u-s-gasoline-crude-stocks-jump-idUSKBN21J3RE",
+            "image_url": "https://cdn.snapi.dev/images/v1/r/0/m02d20200401t2i1510825365rlynxmpeg302maw640.jpg",
+            "title": "Oil benchmarks mixed after U.S. gasoline, crude stocks jump",
+            "text": "Brent crude fell while U.S. futures dipped before recovering on Wednesday, after U.S.",
+            "source_name": "Reuters",
+            "date": "Wed, 01 Apr 2020 12:07:20 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        }
+    ]
+}

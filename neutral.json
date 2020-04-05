@@ -1,0 +1,584 @@
+{
+    "data": [
+        {
+            "news_url": "https://www.reuters.com/article/us-global-oil-trump/trump-says-if-he-has-to-put-tariffs-on-oil-imports-to-protect-energy-workers-he-will-idUSKBN21M0V8",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/1/m02d20200404t2i1512490249rlynxmpeg330l4w640.jpg",
+            "title": "Trump says if he has to put tariffs on oil imports to protect energy workers he will",
+            "text": "President Donald Trump said on Saturday he would put tariffs on imports of crude oil or take other measures if he has to protect energy workers from the oil price crash.",
+            "source_name": "Reuters",
+            "date": "Sat, 04 Apr 2020 17:50:05 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.nytimes.com/2020/04/04/business/economy/apollo-federal-reserve-lending-talf.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/k/m/merlin-168049713-6a730bf0-507f-4d01-879e-d12a69a0bea4-articlelargejpgquality75autowebpdisableupscale.jpg",
+            "title": "Private Equity Firm Pushes for Broader Access to Fed Lending Program",
+            "text": "Apollo has led a push to expand a program intended to keep loans flowing to small businesses and households by allowing for more kinds of assets to be offered as collateral.",
+            "source_name": "NYTimes",
+            "date": "Sat, 04 Apr 2020 16:44:09 -0400",
+            "topics": [
+                "paywall"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/tomaspray/2020/04/04/what-to-expect-from-bear-market-rallies/",
+            "image_url": "https://cdn.snapi.dev/images/v1/o/a/what-to-expect-from-bear-market-rallies.jpg",
+            "title": "What To Expect From Bear Market Rallies",
+            "text": "Many traders and investors are not familiar with what can take place in a bear market as the sharp rallies can often make them alter their strategies. That was the case in the spring of 2008 as many turned bullish just before the decline resumed.",
+            "source_name": "Forbes",
+            "date": "Sat, 04 Apr 2020 15:17:36 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://techcrunch.com/2020/04/04/new-guidance-on-sba-loans-means-most-startups-are-still-excluded-from-349-billion-stimulus/",
+            "image_url": "https://cdn.snapi.dev/images/v1/h/m/net-neutrality-capitoljpgw711.jpg",
+            "title": "New guidance on SBA loans means most startups are still excluded from $349 billion stimulus",
+            "text": "Under new guidance issued by the Small Business Administration it seems non-profits and faith-based groups can apply for the Paycheck Protection Program loans designed to keep small business afloat during the COVID-19 epidemic, but most venture-backed companies are still not covered. Late Friday night, the Treasury Department updated its rules regarding the \u201caffiliation\u201d of private [\u2026]",
+            "source_name": "TechCrunch",
+            "date": "Sat, 04 Apr 2020 13:53:31 -0400",
+            "topics": [
+                "earnings"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-usa-small-business/trump-says-will-ask-congress-for-more-small-business-funds-if-money-runs-out-idUSKBN21M0LN",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/0/m02d20200404t2i1512388664rlynxmpeg330ezw640.jpg",
+            "title": "Trump says will ask Congress for more small business funds if money runs out",
+            "text": "U.S. President Donald Trump said on Saturday he would ask Congress for more money to make loans to small businesses struggling with the economic fallout from the coronavirus outbreak if the original $349 billion allocated in a fiscal stimulus bill runs out.",
+            "source_name": "Reuters",
+            "date": "Sat, 04 Apr 2020 11:25:36 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/04/04/wall-street-adjusts-to-working-at-home-lost-screen-real-estate-citis-new-world-headquarters.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/4/o/106454360-15847308649482020-03-19t212642z-1866910773-hp1eg3j1nkike-rtrmadp-3-usa-stocks.jpg",
+            "title": "Wall Street adjusts to working at home: Lost screen real estate, Citi's new 'world headquarters'",
+            "text": "CNBC spoke with several Wall Street players to see how they are adjusting to the new reality of working from home.",
+            "source_name": "CNBC",
+            "date": "Sat, 04 Apr 2020 10:34:03 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/davidblackmon/2020/04/04/putin-is-ready-to-cut-oil-supply-but-demand-destruction-still-grows/",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/n/putin-is-ready-to-cut-oil-supply-but-demand-destruction-still-grows.jpg",
+            "title": "Putin Is Ready To Cut Oil Supply, But Demand Destruction Still Grows",
+            "text": "Russian President Vladimir Putin said on Friday that, after sending the oil markets into a massive crash a month ago by blowing up the OPEC+ exports limitation agreement, his country is now ready to work with OPEC and other countries to implement far deeper cuts to crude production.",
+            "source_name": "Forbes",
+            "date": "Sat, 04 Apr 2020 08:35:17 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/04/04/is-the-end-of-quarter-market-run-up-just-wall-stre.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/a/r/urlhttps3a2f2fgfoolcdncom2feditorial2fimages2f5662082fgettyimages-1172094014jpgw700opresize.jpg",
+            "title": "Is the End of Quarter Market Run-Up Just Wall Street Dressing the Window?",
+            "text": "Stocks rose as the quarter drew to a close, but don't get caught thinking the tide has shifted.",
+            "source_name": "The Motley Fool",
+            "date": "Sat, 04 Apr 2020 07:49:00 -0400",
+            "topics": [
+                "earnings"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-usa-jobs/how-the-coronavirus-job-cuts-played-out-by-sector-and-demographics-idUSKBN21M0EL",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/7/m02d20200404t2i1512324477rlynxmpeg330b3w640.jpg",
+            "title": "How the coronavirus job cuts played out by sector and demographics",
+            "text": "The job losses suffered in March as the U.S. economy shut down in the face of the novel coronavirus pandemic were widespread but still were disproportionately felt in a handful of employment sectors and by women, the young and the less educated.",
+            "source_name": "Reuters",
+            "date": "Sat, 04 Apr 2020 07:21:19 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-imf/saudi-energy-minister-rejects-russian-comments-about-kingdoms-withdrawal-from-opec-deal-idUSKBN21L318",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/w/105176942-gettyimages-951980708.jpg",
+            "title": "Saudi energy minister rejects Russian comments about kingdom's withdrawal from OPEC+ deal",
+            "text": "The Saudi energy minister on Saturday rejected Russia's remarks that the kingdom withdrew last month from a deal to cut output.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 21:12:47 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://investorplace.com/2020/04/two-sectors-to-consider-today/",
+            "image_url": "https://cdn.snapi.dev/images/v1/l/y/stocks-down-just-26-this-week-despite-record-unemployment-and-coronavirus-volatility.jpg",
+            "title": "Two Sectors to Consider Today",
+            "text": "Even though \u201cthe market\u201d is down, many individual stocks are showing strength. Here are two sectors, and two stocks within them, that are looking good today Around the InvestorPlace offices, we often say, \u201cIt\u2019s not so much a stock market as it is a market of stocks.",
+            "source_name": "InvestorPlace",
+            "date": "Fri, 03 Apr 2020 19:39:45 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-usa-small-business/u-s-businesses-swarm-coronavirus-bailout-fund-after-days-of-confusion-idUSKBN21L2BJ",
+            "image_url": "https://cdn.snapi.dev/images/v1/9/y/m02d20200403t2i1512029185rlynxmpeg321lgw640.jpg",
+            "title": "U.S. businesses swarm coronavirus bailout fund after days of confusion",
+            "text": "Like many small business owners, New York City restaurateur Dan Kluger spent his Friday scrambling to apply for a loan under the U.S. government's $349 billion small business bailout fund, which officially launched in the morning.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 19:23:09 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-oil-trump/trump-aims-to-ease-u-s-oil-industrys-cash-crunch-no-plan-to-trim-output-sources-idUSKBN21L1L5",
+            "image_url": "https://cdn.snapi.dev/images/v1/j/p/m02d20200403t2i1512093728rlynxmpeg32256w640.jpg",
+            "title": "Trump aims to ease U.S. oil industry's cash crunch, no plan to trim output: sources",
+            "text": "U.S. President Donald Trump has directed his cabinet to find ways to ease a cash crunch in the drilling industry after oil company executives told him in a Friday meeting it was among their top concerns, according to three sources briefed on the matter.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 19:13:23 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/04/03/treasury-makes-ppp-loan-terms-more-unfavorable-for-small-businesses.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/q/v/106472751-1585871633097gettyimages-1208986945.jpeg",
+            "title": "Treasury makes coronavirus loan terms more unfavorable for small businesses",
+            "text": "The Treasury Department raised interest rates on its Paycheck Protection Program loans for small businesses and reduced their payback period.",
+            "source_name": "CNBC",
+            "date": "Fri, 03 Apr 2020 17:45:45 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/3-sp-sectors-climbed-this-week-here-are-the-stocks-that-rose-and-fell-the-most-2020-04-03",
+            "image_url": "https://cdn.snapi.dev/images/v1/v/e/0x600-2.jpg",
+            "title": "Deep Dive: 3 S&P sectors climbed this week \u2014 here are the stocks that rose and fell the most",
+            "text": "Stocks ended the week with relatively moderate declines, considering the \u201cnew normal\u201d of high volatility on most days of the coronavirus crisis.",
+            "source_name": "Market Watch",
+            "date": "Fri, 03 Apr 2020 17:24:23 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/ucenergy/2020/04/03/we-should-be-celebrating-opecs-price-war-not-trying-to-end-it/",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/r/we-should-be-celebrating-opecs-price-war-not-trying-to-end-it.jpg",
+            "title": "We Should Be Celebrating OPEC\u2019s Price War, Not Trying To End It",
+            "text": "The breakout of competition in the world oil market has been one of the few pieces of good news over what has otherwise been a tragic past month. We should not encourage a return to oil market collusion and market manipulation.",
+            "source_name": "Forbes",
+            "date": "Fri, 03 Apr 2020 17:07:25 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/04/03/the-stimulus-boost-has-passed-and-now-the-stock-market-is-focused-solely-on-virus-developments.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/b/106468320-15856581191502020-03-24t142229z-470140335-rc2eqf99aa0a-rtrmadp-3-health-coronavirus-banks-bonuses.jpg",
+            "title": "The stimulus boost has passed and now the stock market is focused solely on virus developments",
+            "text": "Developments around the coronavirus will be the catalyst for stocks in the week ahead, as investors await the onset of earnings season.",
+            "source_name": "CNBC",
+            "date": "Fri, 03 Apr 2020 16:47:41 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.kiplinger.com/article/business/T035-C000-S005-small-business-administration-sba-loans-stimulus-c.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/v/t/21886.jpg",
+            "title": "What Small Businesses Must Know About the SBA's New Stimulus Loans",
+            "text": "CARES Act expands select loan programs administered by the Small Business Administration.",
+            "source_name": "Kiplinger",
+            "date": "Fri, 03 Apr 2020 16:39:42 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-usa-stocks-weekahead/wall-street-week-ahead-investors-look-to-coronavirus-data-to-support-stabilizing-markets-idUSKBN21L31Q",
+            "image_url": "https://cdn.snapi.dev/images/v1/n/w/m02d20200403t2i1512077063rlynxmpeg3225kw640.jpg",
+            "title": "Wall Street Week Ahead: Investors look to coronavirus data to support stabilizing markets",
+            "text": "Investors are parsing a broad range of signals, from infection counts to more traditional indicators, for clues on the trajectory markets may take in coming weeks as the pandemic caused by the novel coronavirus continues to spread.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 16:03:07 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.etftrends.com/2020/04/did-etf-re-balancing-move-the-market/",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/m/stocks151-49.jpg",
+            "title": "Did ETF Re-balancing Move The Market?",
+            "text": "This is a question I have been asked now at least 10 times since the beginning of trading this week, and it\u2019s a reasonable question.\u00a0 After all, if 34-45% of the dollar value traded is ETFs these days (which it has been) the implication is, to be cavalier about it, that ETFs are a big [.",
+            "source_name": "ETF Trends",
+            "date": "Fri, 03 Apr 2020 16:02:15 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/jjkinahan/2020/04/03/as-big-banks-kick-off-earnings-season-eyes-on-executive-guidance-credit-quality/",
+            "image_url": "https://cdn.snapi.dev/images/v1/0/l/as-big-banks-kick-off-earnings-season-eyes-on-executive-guidance-credit-quality.jpg",
+            "title": "As Big Banks Kick Off Earnings Season, Eyes On Executive Guidance, Credit Quality",
+            "text": "Financial sector companies step up to the line to report earnings soon, but in a way it\u2019s too bad they can\u2019t just pass on this snapshot and advance directly to Q2 earnings season.",
+            "source_name": "Forbes",
+            "date": "Fri, 03 Apr 2020 16:00:40 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/uk-health-coronavirus-fx-funds/global-currency-funds-notch-wins-amid-coronavirus-volatility-idUSKBN21L2ZW",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/b/m02d20200403t2i1512067437rlynxmpeg32238w640.jpg",
+            "title": "Global currency funds notch wins amid coronavirus volatility",
+            "text": "Global currency fund managers racked up gains in the first quarter as they benefited from the extreme volatility that the coronavirus pandemic has stoked across financial markets.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 15:33:31 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-usa-watchdogs-fact/the-watchdogs-overseeing-the-2-3-trillion-u-s-bailout-idUSKBN21L2YY",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/m/m02d20200403t2i1512064094rlynxmpeg3222vw640.jpg",
+            "title": "The watchdogs overseeing the $2.3 trillion U.S. bailout",
+            "text": "Who's watching over the U.S. government's largest bailout in history - the $2.3 trillion in fiscal stimulus to fight the economic impact of the coronavirus?",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 15:23:44 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-fed-trump/fed-chair-powell-spoke-with-trump-as-central-bank-geared-up-for-virus-response-idUSKBN21L2XO",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/t/m02d20200403t2i1512055366rlynxmpeg3220iw640.jpg",
+            "title": "Fed Chair Powell spoke with Trump as central bank geared up for virus response",
+            "text": "Federal Reserve Chair Jerome Powell had two previously undisclosed phone calls with U.S. President Trump in February, calendars released on Friday show, including a brief call during the last week of the month when it was becoming clearer that the coronavirus would likely have more than a transitory effect on the U.S.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 14:54:10 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.nytimes.com/2020/04/03/business/economy/coronavirus-fed-business-credit.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/7/d/merlin-171232869-792e975a-4cde-469c-afcd-ea60cf4c49fc-articlelargejpgquality75autowebpdisableupscale.jpg",
+            "title": "The Fed Got a Big Pile of Cash to Help the Economy. Who Will Benefit?",
+            "text": "As the coronavirus sends the economy into free-fall, the Federal Reserve will keep credit flowing with an array of programs. But some details are fuzzy.",
+            "source_name": "NYTimes",
+            "date": "Fri, 03 Apr 2020 14:49:47 -0400",
+            "topics": [
+                "paywall"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/04/03/coronavirus-more-residential-construction-workers-are-staying-home.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/u/q/106473977-1585934784948img-2138.jpg",
+            "title": "Residential construction is bright spot in jobs report, but more workers start to stay home",
+            "text": "Construction has been deemed essential by the federal government, but a growing number of residential construction workers are pulling back, worried about catching the coronavirus.",
+            "source_name": "CNBC",
+            "date": "Fri, 03 Apr 2020 14:34:02 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.etftrends.com/tactical-allocation-channel/trends-with-benefits-6-covid-19-and-the-markets-stay-calm/",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/5/m02d20191121t2i1455018522rlynxmpefak11uw640.jpg",
+            "title": "Trends with Benefits #6: COVID-19 and the Markets: Stay Calm",
+            "text": "From VanEck Global The market\u2019s sell-off\u00a0that began at the end of February 2020\u00a0was the fastest sell-off we\u2019ve seen since 1929. The panic selling in response to coronavirus uncertainty has put\u00a0people on edge.",
+            "source_name": "ETF Trends",
+            "date": "Fri, 03 Apr 2020 14:09:08 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.kiplinger.com/article/investing/T052-C008-S001-investing-in-stocks-balance-sheets-are-everything.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/g/21885.jpg",
+            "title": "Investing in Stocks? Balance Sheets Are Everything",
+            "text": "A firm financial footing is essential for any prospective investment, especially in the midst of a crisis",
+            "source_name": "Kiplinger",
+            "date": "Fri, 03 Apr 2020 14:02:34 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-oil-opec-russia-usa-novak/russia-says-u-s-has-legal-curbs-on-oil-output-cuts-but-should-be-flexible-idUSKBN21L2SN",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/r/m02d20200403t2i1512036339rlynxmpeg321w3w640.jpg",
+            "title": "Russia says U.S. has legal curbs on oil output cuts, but should be flexible",
+            "text": "Russian Energy Minister Alexander Novak said on Friday that the United States has legal restrictions on oil output cuts, but the country should be flexible with them, RIA news agency reported.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 13:51:53 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.seeitmarket.com/economic-uncertainty-will-yield-to-stock-opportunities-after-testing-resolve/",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/p/stock-exchange-738671-1280-1-25.jpg",
+            "title": "Economic Uncertainty Will Yield to Stock Opportunities After Testing Resolve",
+            "text": "Key Stock Market Takeaways: \u2013 Adapting to uncertainty provides fuel for growth \u2013 Earnings backdrop weighs on encouraging valuations\u00a0 \u2013 Rather than calling turns, wait for trends to improve We wrote last week about\u00a0staying patient in the face of weakness\u00a0and earlier this week about\u00a0bracing ourselves for negative headlines. Both of those remain true as economic [\u2026]\nThe post Economic Uncertainty Will Yield to Stock Opportunities After Testing Resolve appeared first on See It Market.",
+            "source_name": "See It Market",
+            "date": "Fri, 03 Apr 2020 13:48:30 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/04/03/sen-loeffler-ceo-husband-reportedly-made-options-trades-often-used-as-hedges-against-volatility.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/h/106457234-1584993327762kelly.jpg",
+            "title": "Sen Loeffler, CEO husband reportedly made options trades often used as hedges against volatility",
+            "text": "Loeffler and Sprecher reportedly sold an undisclosed amount of put options in February.",
+            "source_name": "CNBC",
+            "date": "Fri, 03 Apr 2020 13:42:58 -0400",
+            "topics": [
+                "CEO"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-usa-small-business/amid-confusion-u-s-small-business-bailout-program-off-to-rocky-start-idUSKBN21L2BJ",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/4/m02d20200403t2i1511987028rlynxmpeg321lgw640.jpg",
+            "title": "Amid confusion, U.S. small business bailout program off to rocky start",
+            "text": "A flood of loan applications from coronavirus-hit businesses inundated lenders on Friday as the U.S. government launched its $349 billion bailout fund for small and midsize companies amid widespread confusion about just how the program works.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 13:29:01 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/f42dab8b-9b4f-49dc-83c8-fc89cb61ad85",
+            "image_url": "https://cdn.snapi.dev/images/v1/z/n/etf38.jpg",
+            "title": "New York Fed retains Pimco and State Street to manage commercial paper backstop",
+            "text": "The New York Fed said in a statement that they had retained bond fund giant Pacific Investment Management Company, or Pimco, and State Street to run the commercial paper funding facility, which offers a guaranteed rate at which highly rated businesses can borrow funds for a short period.",
+            "source_name": "Market Watch",
+            "date": "Fri, 03 Apr 2020 13:28:41 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnn.com/2020/04/03/business/oil-prices-trump-opec/index.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/l/5/200403112357-oil-storage-tank-russia-0322-restricted-super-169.jpg",
+            "title": "Trump: His incredible 180 on OPEC, oil and free markets",
+            "text": "President Donald Trump has long cast OPEC as an evil force ripping Americans off by not pumping enough oil. Now he's pleading with Saudi Arabia and Russia to stop pumping so much oil.",
+            "source_name": "CNN Business",
+            "date": "Fri, 03 Apr 2020 13:11:18 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/jamesasquith/2020/04/03/trump-considers-us-domestic-travel-restrictions/",
+            "image_url": "https://cdn.snapi.dev/images/v1/t/r/trump-considers-us-domestic-travel-restrictions.jpg",
+            "title": "Trump Considers U.S. Domestic Travel Restrictions",
+            "text": "Since Donald Trump banned flights from the EU and Schengen Area from entering the U.S. the question has ben asked whether or not domestic travel will be banned.",
+            "source_name": "Forbes",
+            "date": "Fri, 03 Apr 2020 11:47:29 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-usa-small-business/heres-how-the-u-s-s-main-street-bailout-program-is-going-so-far-idUSKBN21L2BJ",
+            "image_url": "https://cdn.snapi.dev/images/v1/v/h/m02d20200403t2i1511987028rlynxmpeg321lgw640.jpg",
+            "title": "Here's how the U.S.'s Main Street bailout program is going so far",
+            "text": "The Trump administration's bailout program for small and mid-sized businesses, which aims to keep companies that employ 60 million Americans afloat despite widespread shutdowns related to the new coronavirus, launched on Friday.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 11:15:09 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.investopedia.com/articles/investing/071414/when-and-why-do-gold-prices-plummet.asp",
+            "image_url": "https://cdn.snapi.dev/images/v1/g/y/gyhrgol3.jpg",
+            "title": "When and Why Do Gold Prices Drop?",
+            "text": "A wise investor is one who recognizes gold\u2019s place in the market, without attaching too much or too little significance to it.",
+            "source_name": "Investopedia",
+            "date": "Fri, 03 Apr 2020 11:09:31 -0400",
+            "topics": [
+                "gold"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.marketwatch.com/story/guid/e0d88ff4-c113-4cf8-bbed-835e9da8d991",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/t/stocks141-43.jpg",
+            "title": "Fed's Daly: Ugly jobs data will improve if we fight the pandemic effectively",
+            "text": "The drop in employment and the rise in jobless claims are big numbers but Americans should focus on fighting the virus effectively and then the data will improve, said San Francisco Fed President Mary Daly, in an interview on CNN on Friday.",
+            "source_name": "Market Watch",
+            "date": "Fri, 03 Apr 2020 11:09:27 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://nypost.com/2020/04/03/stocks-hold-steady-after-feds-reveal-coronavirus-job-losses/",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/g/wall-streetjpgquality90stripall.jpg",
+            "title": "Stocks hold steady after feds reveal coronavirus job losses",
+            "text": "US stocks held steady Friday even after a brutal monthly jobs report gave Wall Street more proof of how hard the coronavirus pandemic has hit the economy.",
+            "source_name": "New York Post",
+            "date": "Fri, 03 Apr 2020 11:00:57 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.kiplinger.com/article/investing/T052-C016-S002-can-rates-go-any-lower.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/j/g/jgngtr43.jpg",
+            "title": "Can Rates Go Any Lower?",
+            "text": "Rates can go even lower than they are now.",
+            "source_name": "Kiplinger",
+            "date": "Fri, 03 Apr 2020 10:53:07 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.fool.com/investing/2020/04/03/how-to-pick-best-stocks-during-coronavirus-selloff.aspx",
+            "image_url": "https://cdn.snapi.dev/images/v1/f/k/fke2344.jpg",
+            "title": "How to Pick the Best Stocks to Buy During The Coronavirus Sell-Off",
+            "text": "Lots of stocks are on sale, but whittling down the field to the best buys is imperative.",
+            "source_name": "The Motley Fool",
+            "date": "Fri, 03 Apr 2020 10:50:39 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://247wallst.com/energy-economy/2020/04/03/will-the-us-join-saudi-arabia-russia-to-cut-crude-oil-production/",
+            "image_url": "https://cdn.snapi.dev/images/v1/y/w/rally-hopes-flag-after-initial-unemployment-claims-double-expectations-at-above-6-million.jpg",
+            "title": "Will the US Join Saudi Arabia, Russia to Cut Crude Oil Production?",
+            "text": "After posting an all-time high one-day gain Thursday, crude oil prices added even more in early trading Friday.",
+            "source_name": "24/7 Wall Street",
+            "date": "Fri, 03 Apr 2020 10:48:04 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/rahulrazdan/2020/04/03/covid-19-the-digital-economy-change-agent-/",
+            "image_url": "https://cdn.snapi.dev/images/v1/c/x/covid-19-the-digital-economy-change-agent.jpg",
+            "title": "COVID-19: The Digital Economy Change Agent?",
+            "text": "In the short term, we will solve COVID-19 from a healthcare point-of-view, but will the response actually accelerate fundamental changes in the structure of the economy.",
+            "source_name": "Forbes",
+            "date": "Fri, 03 Apr 2020 10:36:14 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.kiplinger.com/article/investing/T052-C003-S002-stay-calm-amid-bond-market-chaos.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/5/r/21824.jpg",
+            "title": "Stay Calm Amid Bond Market Chaos",
+            "text": "The risk is that you'll lock your money in a low-yield prison just in time for normalcy to return to the financial markets.",
+            "source_name": "Kiplinger",
+            "date": "Fri, 03 Apr 2020 10:31:11 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-health-coronavirus-loans-kudlow/white-houses-kudlow-says-banks-are-ready-to-go-in-giving-small-business-loans-idUSKBN21L262",
+            "image_url": "https://cdn.snapi.dev/images/v1/s/g/m02d20200403t2i1511970596rlynxmpeg321igw640.jpg",
+            "title": "White House's Kudlow says banks are 'ready to go' in giving small business loans",
+            "text": "Top White House economic advisor Larry Kudlow said on Friday that there would be big demand for a small-business loan program but that the banks were prepared for it despite concerns that they would be overwhelmed by the need created by an economic shutdown aimed at slowing the spread of the coronavirus.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 10:22:26 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.cnbc.com/2020/04/03/ism-non-manufacturing-index-march-2020.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/1/0/106472615-1585863722269gettyimages-1216458014.jpeg",
+            "title": "March ISM non-manufacturing index comes in at 52.5, vs 45 expected",
+            "text": "Activity in the U.S. services sector slowed down in March as business grapple with the coronavirus outbreak, data released Friday by the Institute for Supply Management showed.",
+            "source_name": "CNBC",
+            "date": "Fri, 03 Apr 2020 10:07:55 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.reuters.com/article/us-global-markets/global-stocks-edge-lower-on-economic-toll-from-virus-oil-rallies-idUSKBN21L0EB",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/b/m02d20200403t2i1511859436rlynxmpeg320p5w640.jpg",
+            "title": "Global stocks edge lower on economic toll from virus; oil rallies",
+            "text": "Global stock markets sank Friday following more signs that the COVID-19 pandemic would take a massive toll on economic growth, while oil prices continued to rally on hopes of a cut to global supply.",
+            "source_name": "Reuters",
+            "date": "Fri, 03 Apr 2020 10:07:41 -0400",
+            "topics": [
+                "oil"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.kiplinger.com/article/taxes/T054-C000-S001-when-will-i-get-my-stimulus-check-2020.html",
+            "image_url": "https://cdn.snapi.dev/images/v1/e/c/21882.jpg",
+            "title": "When Will I Get My Stimulus Check?",
+            "text": "That's the question on everyone's mind right now.",
+            "source_name": "Kiplinger",
+            "date": "Fri, 03 Apr 2020 10:04:48 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/pedrodacosta/2020/04/03/pandemic-economics-lessons-from-the-spanish-flu-in-1918/",
+            "image_url": "https://cdn.snapi.dev/images/v1/p/a/pandemic-economics-lessons-from-the-spanish-flu-in-1918.jpg",
+            "title": "Pandemic Economics: Lessons From The Spanish Flu In 1918",
+            "text": "There can be no thriving economic life until families and individuals feel comfortable returning to their normal daily lives, including in many cases their place of work, without undue fear of death and disease.",
+            "source_name": "Forbes",
+            "date": "Fri, 03 Apr 2020 10:00:45 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://www.forbes.com/sites/brettowens/2020/04/03/bear-market-playbook-favor-stocks-over-bonds/",
+            "image_url": "https://cdn.snapi.dev/images/v1/m/d/bear-market-playbook-favor-stocks-over-bonds.jpg",
+            "title": "Bear Market Playbook: Favor Stocks Over Bonds",
+            "text": "Brighter days are ahead\u2014let\u2019s make sure we get there with ourselves and our portfolios relatively intact.",
+            "source_name": "Forbes",
+            "date": "Fri, 03 Apr 2020 09:50:00 -0400",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        }
+    ]
+}
